@@ -71,24 +71,24 @@ Kotlin, Java, Dart
 ![time_ticket.jpg](img/time_ticket.jpg)
 
 - スパルタキャンプ Java/Android 編 講師（2015 年 10 月、2016 年 3 月）
-  - 3、4 日間の短期間で Android アプリの開発を学ぶプログラミング教室です
+  - 3、4 日間かけて Android アプリの開発を学べるプログラミング教室です
 
 ![sparta_camp.jpg](img/sparta_camp.jpg)
 
-- 妖怪笑い袋（スマートスピーカーアプリ）リリース
-  - 全ての Word に対して、ランダムに笑い声を返すだけのスキルです
+- 妖怪笑い袋（スマートスピーカーアプリ）の開発およびリリース
+  - 全てのキーワードに対して、ランダムに笑い声を返すだけのスキルです
   - リリース初月で利用者数 100 人突破
     - [Google アシスタント版](https://assistant.google.com/services/a/uid/0000002f26a76e99?hl=ja)
       - [動画](https://www.youtube.com/watch?v=N-AQ-Q36Ts0)
     - Alexa 版 **※公開停止**
       - [動画](https://www.youtube.com/watch?v=2d-1DX_Zojc)
-- [かんたん食事管理（iOS アプリ）](https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%A3%9F%E4%BA%8B%E7%AE%A1%E7%90%86/id1482117628)リリース **※公開停止**
-  - その日食べた食事の画像とテキスト情報を入力して一覧表示してくれるアプリです
+- [かんたん食事管理（iOS アプリ）](https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%A3%9F%E4%BA%8B%E7%AE%A1%E7%90%86/id1482117628)の開発およびリリース **※公開停止**
+  - その日に食べた食事の画像とテキスト情報を入力して一覧表示してくれるアプリです
 - 技術発信
   - 主に Qiita, Zenn にて実務等で得られた知見を発信しています
 - OSS 活動
-  - [DroidKaigi 2021 official app](https://github.com/DroidKaigi/conference-app-2021)コントリビューター
-  - [DroidKaigi 2022 official app](https://github.com/DroidKaigi/conference-app-2022)コントリビューター
+  - [DroidKaigi 2021 official app](https://github.com/DroidKaigi/conference-app-2021) コントリビューター
+  - [DroidKaigi 2022 official app](https://github.com/DroidKaigi/conference-app-2022) コントリビューター
 
 ## 今後の展望
 
