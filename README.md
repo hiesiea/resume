@@ -30,7 +30,10 @@
 
 ### 主な使用可能言語
 
-Kotlin, Java, Dart
+- Kotlin
+- Java
+- Dart
+- C#
 
 ### 主な使用可能フレームワーク・ライブラリ等
 
@@ -41,12 +44,14 @@ Kotlin, Java, Dart
   - Navigation
   - Room
   - Hilt
+  - WorkManager
 - RxJava 3
 - Kotlin Coroutines
 - Kotlin Flow
 - Flutter
 - OkHttp 3
 - Retrofit 2
+- Moshi
 - Glide
 - JUnit
 - Mockito
@@ -85,7 +90,7 @@ Kotlin, Java, Dart
 - [かんたん食事管理（iOS アプリ）](https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%A3%9F%E4%BA%8B%E7%AE%A1%E7%90%86/id1482117628)の開発およびリリース **※公開停止**
   - その日に食べた食事の画像とテキスト情報を入力して一覧表示してくれるアプリです
 - 技術発信
-  - 主に Qiita, Zenn にて実務等で得られた知見を発信しています
+  - 主に Qiita, Zenn にて実務等で得られた技術的知見を発信しています
 - OSS 活動
   - [DroidKaigi 2021 official app](https://github.com/DroidKaigi/conference-app-2021) コントリビューター
   - [DroidKaigi 2022 official app](https://github.com/DroidKaigi/conference-app-2022) コントリビューター
