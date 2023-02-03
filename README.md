@@ -2,8 +2,6 @@
 
 ## 基本情報
 
-[![Hitoshi KAMADA's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 |Key|Value|
 |---|---|
 |氏名|鎌田 均（Hitoshi KAMADA）|
@@ -13,11 +11,15 @@
 
 ## 各種アカウント
 
-- [note](https://note.com/kmd_htsh/)
 - [Qiita](https://qiita.com/hiesiea)
-- [Twitter](https://twitter.com/kmd_htsh0226)
-- [Speaker Deck](https://speakerdeck.com/kmd_htsh0226)
 - [Zenn](https://zenn.dev/kmd_htsh0226)
+- [note](https://note.com/kmd_htsh/)
+- [Speaker Deck](https://speakerdeck.com/kmd_htsh0226)
+- [Twitter](https://twitter.com/kmd_htsh0226)
+
+### GitHub Stats Card
+
+[![Hitoshi KAMADA's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## スキルセット
 
@@ -30,11 +32,6 @@
 - プログラミング講師経験あり（Java, Android）
 
 ### 主な使用可能言語
-
-- Kotlin
-- Java
-- Dart
-- C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiesiea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
