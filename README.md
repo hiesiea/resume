@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-[![hiesiea's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&count_private=true?show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hitoshi KAMADA's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 |Key|Value|
 |---|---|
