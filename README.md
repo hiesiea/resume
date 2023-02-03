@@ -2,6 +2,10 @@
 
 ## 基本情報
 
+[![hiesiea's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiesiea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 |Key|Value|
 |---|---|
 |氏名|鎌田 均（Hitoshi KAMADA）|
@@ -12,7 +16,6 @@
 ## 各種アカウント
 
 - [note](https://note.com/kmd_htsh/)
-- [GitHub](https://github.com/hiesiea)
 - [Qiita](https://qiita.com/hiesiea)
 - [Twitter](https://twitter.com/kmd_htsh0226)
 - [Speaker Deck](https://speakerdeck.com/kmd_htsh0226)
