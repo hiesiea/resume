@@ -46,6 +46,7 @@
   - Room
   - Hilt
   - WorkManager
+  - DataStore
 - RxJava 3
 - Kotlin Coroutines
 - Kotlin Flow
