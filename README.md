@@ -105,6 +105,7 @@
 - OSS 活動
   - [DroidKaigi 2021 official app](https://github.com/DroidKaigi/conference-app-2021) コントリビューター
   - [DroidKaigi 2022 official app](https://github.com/DroidKaigi/conference-app-2022) コントリビューター
+- 整理収納アドバイザー2級 2023年5月5日認定
 
 ## 今後の展望
 
