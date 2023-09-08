@@ -74,6 +74,17 @@
 
 ## その他実績
 
+### 免許・資格
+
+|年月|免許・資格|
+|---|---|
+|2009/11|基本情報技術者試験|
+|2010/02|日商簿記2級|
+|2010/03|全商検定5冠（電卓、ワープロ、プログラミング、ビジネス情報、簿記）|
+|2011/09|普通自動車第一種運転免許|
+|2023/05|整理収納アドバイザー2級|
+|2023/06|クリンネスト2級|
+
 ### 学生時代
 
 - 電子情報通信学会総合大会 ISS 特別企画「学生ポスターセッション」発表
@@ -106,7 +117,7 @@
 - OSS 活動
   - [DroidKaigi 2021 official app](https://github.com/DroidKaigi/conference-app-2021) コントリビューター
   - [DroidKaigi 2022 official app](https://github.com/DroidKaigi/conference-app-2022) コントリビューター
-- 整理収納アドバイザー2級 2023年5月5日認定
+  - [DroidKaigi 2023 official app](https://github.com/DroidKaigi/conference-app-2023) コントリビューター
 
 ## 今後の展望
 
