@@ -18,7 +18,7 @@
 - [Twitter](https://twitter.com/kmd_htsh0226)
 - [Lapras](https://lapras.com/public/PQIRUSU)
 
-### GitHub Stats Card
+## GitHub Stats Card
 
 [![Hitoshi KAMADA's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
