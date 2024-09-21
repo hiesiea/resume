@@ -30,7 +30,7 @@
 
 ### 主な使用可能言語
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiesiea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Kotlin, Java, Dart, C#, Swift, JavaScript, PHP, shell script, HTML, CSS, Markdown, YAML
 
 ### 主な使用可能フレームワーク・ライブラリ等
 
