@@ -44,9 +44,9 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ### 2019年4月〜現在 フリーランス
 
-#### 2021年3月〜現在 N予備校開発支援業務
+#### 2021年3月〜現在 ZEN Study（旧：N 予備校）開発支援業務
 
-- 概要：`N予備校` Android アプリの開発支援業務
+- 概要：ZEN Study（旧：N 予備校）Android アプリの開発支援業務
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
 - 役割：当初は SE として参画、2023 年よりテックリード
 - 規模：6 名（PM1 名、PL1 名、SE4 名）
