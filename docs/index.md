@@ -65,23 +65,21 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ViewPager を ViewPager2 に移行
   - 画面遷移を Navigation に移行
   - Single アクティビティ に移行
-  - UI を Jetpack Compose に移行、UI テストの導入
-    - 影響範囲を限定するため、あまり使われていなく、ユーザへの影響が少なそうな画面から徐々に Compose 化した
+  - Android View を Jetpack Compose に移行、UI テストの導入
   - マルチモジュールの導入
   - 通信処理を Retrofit に移行
-  - JSON ライブラリを Moshi に一本化
-    - org.json と Gson がごちゃ混ぜになっていたが、通信処理を Retrofit に移行した際、JSON パーサーとして Moshi を使用していたため、あわせて Moshi に一本化した
+  - JSON ライブラリについて、org.json と Gson がごちゃ混ぜになっていたのを Moshi に一本化
   - Serializable なデータクラスを Parcelable に移行
   - RxJava 3 から Kotlin Flow に移行
   - buildSrc から Composite Build に移行
 - テックリードとしてチームメンバーのマネジメント
   - 新技術導入に向けた調査、ドキュメント作成および共有
-  - タスクの作成、チームメンバーへの割り振り
-  - リファクタリングタスクの工数見積もり、計画
+  - リファクタリングタスクの工数見積もり、計画作成、チームメンバーへの割り振り
   - Codelab にて学習コンテンツの選定
   - リファクタリングの取り組みを記事化
-  - コードレビュー
+  - コードレビュー、ペアプロ
   - GitHub のプルリクエストのテンプレート改善
+  - インターン生の開発サポート
 - DroidKaigi への参加
 
 #### 2020年6月〜2021年2月 屋外広告配信システム開発案件
@@ -337,8 +335,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - 担当工程：設計、コーディング、テスト
 - 役割：PG
 - 規模：31 名（PM1 名、PL5 名、SE・PG15 名、テスター10 名）
-  - 各機能ごとでチームに分かれ、各チームに PL1 名、SE・PG1〜3 名の構成 テストチームに関しては PL1 名、テスター
-10 名の構成
+  - 各機能ごとでチームに分かれ、各チームに PL1 名、SE・PG1〜3 名の構成
+  - テストチームに関しては PL1 名、テスター10 名の構成
 
 ##### 開発環境
 
