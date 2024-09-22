@@ -531,9 +531,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - ワールドビジネスサテライト 2015 年 1 月 22 日出演
   - TimeTicket というサービスにて、プログラミング関連の相談に乗っていました
   - <https://blog.timeticket.jp/post/108879706835/%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F>
-- スパルタキャンプ Java/Android 編 講師（2015 年 10 月、2016 年 3 月）
+- 株式会社 NOWALL 主催 スパルタキャンプ Java/Android 編 講師（2015 年 10 月、2016 年 3 月）
   - 3〜4 日間かけて Android アプリの開発を学べるプログラミング教室で講師を務めました
-  - ![sparta_camp.jpg](img/sparta_camp.jpg)
 - 妖怪笑い袋（スマートスピーカーアプリ）の開発およびリリース
   - 全てのキーワードに対して、ランダムに笑い声を返すだけのスキルです
   - リリース初月で利用者数 100 人突破
