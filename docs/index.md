@@ -37,6 +37,17 @@ Kotlin（5 年半）, Java（5 年半）, Dart（半年）, C#（1 年半）, Sw
 
 Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore, Media3), RxJava 3, Kotlin Coroutines, Kotlin Flow, OkHttp3, Retrofit2, Moshi, Glide, JUnit, Mockito, Flutter
 
+### 免許・資格
+
+|年月|免許・資格|
+|---|---|
+|2009年11月|基本情報技術者試験|
+|2010年2月|日商簿記2級|
+|2010年3月|全商検定5冠（電卓、ワープロ、プログラミング、ビジネス情報、簿記）|
+|2011年9月|普通自動車第一種運転免許|
+|2023年5月|整理収納アドバイザー2級|
+|2023年6月|クリンネスト2級|
+
 ## 職務経歴詳細
 
 ### 2019年4月〜現在 フリーランス
@@ -63,9 +74,6 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - リファクタリング
   - Java から Kotlin に移行
   - Deprecated な処理の置き換え
-  - ListView を RecyclerView に移行
-  - View Binding の導入
-  - ViewPager を ViewPager2 に移行
   - 画面遷移を Navigation に移行
   - Single アクティビティ に移行
   - Android View を Jetpack Compose に移行、UI テストの導入
@@ -509,17 +517,6 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - 不具合調査および修正
   - 文言修正
   - 計算ロジック修正
-
-## 免許・資格
-
-|年月|免許・資格|
-|---|---|
-|2009年11月|基本情報技術者試験|
-|2010年2月|日商簿記2級|
-|2010年3月|全商検定5冠（電卓、ワープロ、プログラミング、ビジネス情報、簿記）|
-|2011年9月|普通自動車第一種運転免許|
-|2023年5月|整理収納アドバイザー2級|
-|2023年6月|クリンネスト2級|
 
 ## 学会発表
 
