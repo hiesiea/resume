@@ -544,7 +544,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - かんたん食事管理（iOS アプリ）の開発およびリリース **※公開停止**
   - ソースコード : <https://github.com/hiesiea/SimpleMealManager>
   - その日に食べた食事の画像とテキスト情報を入力して一覧表示してくれるアプリです
-- PHP 勉強会
+- PHP 勉強会の共同主催
+  - バックエンドエンジニアの友人との共同主催で、教材作成、受講生の課題管理、新規コンテンツの検討を担当しました
 - 技術発信
   - 主に Qiita, Zenn などで実務等で得られた技術的知見を発信しています
 - OSS 活動
