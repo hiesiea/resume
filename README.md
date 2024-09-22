@@ -2,7 +2,7 @@
 
 職務経歴書は[こちら](https://hiesiea.github.io/hiesiea/)
 
-# リリースノートを作成する
+## リリースノートを作成する
 
 `v**` tag をつけて push すると GitHub Actions でビルドが走り、PDF の生成、Release の作成、Assets へ PDF の登録が実行されます。
 
