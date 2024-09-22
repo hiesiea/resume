@@ -22,15 +22,16 @@
 
 ### 強み
 
-- Kotlin, Java, Flutter による Android アプリ開発および設計
-- レガシーコードのリファクタリングおよびリプレイス
-- アジャイル、スクラムによるチーム開発
-- Android アプリ開発におけるテックリード
-- プログラミング講師（Java, Android）
+- 8 年以上の Kotlin, Java による Android ネイティブアプリ開発の経験あり
+- Flutter, Unity によるクロスプラットフォーム開発の経験あり
+- レガシーコードのリファクタリングおよびリプレイスを得意としている
+- アジャイル、スクラムによるチーム開発の経験あり
+- Android アプリ開発におけるテックリードの経験あり
+- プログラミング講師（Java, Android）の経験あり
 
 ### 主な使用可能言語
 
-Kotlin, Java, Dart, C#, Swift, JavaScript, PHP, shell script, HTML, CSS, Markdown, YAML
+Kotlin（5 年半）, Java（5 年半）, Dart（半年）, C#（1 年半）, Swift（1 年）, JavaScript（2 年半）, shell script（1 年）, HTML（1 年半）, CSS（半年）, Markdown（5 年）, YAML（4 年）
 
 ### 主な使用可能フレームワーク・ライブラリ等
 
@@ -58,8 +59,10 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 機能追加、不具合改修
   - 接続先サーバの移行対応
+  - Edge-to-edge の導入
 - リファクタリング
-  - Deprecated な処理の警告解消
+  - Java から Kotlin に移行
+  - Deprecated な処理の置き換え
   - ListView を RecyclerView に移行
   - View Binding の導入
   - ViewPager を ViewPager2 に移行
@@ -68,10 +71,12 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - Android View を Jetpack Compose に移行、UI テストの導入
   - マルチモジュールの導入
   - 通信処理を Retrofit に移行
-  - JSON ライブラリについて、org.json と Gson がごちゃ混ぜになっていたのを Moshi に一本化
+  - JSON ライブラリについて、org.json と Gson がごちゃ混ぜになっていたので Moshi に一本化
   - Serializable なデータクラスを Parcelable に移行
   - RxJava 3 から Kotlin Flow に移行
   - buildSrc から Composite Build に移行
+  - SharedPreferences から DataStore に移行
+  - ExoPlayer から Media3 に移行
 - テックリードとしてチームメンバーのマネジメント
   - 新技術導入に向けた調査、ドキュメント作成および共有
   - リファクタリングタスクの工数見積もり、計画作成、チームメンバーへの割り振り
@@ -167,7 +172,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 開発環境
 
-- 言語：Dart, Kotlin, Markdown, Swift
+- 言語：Dart, Kotlin, Markdown, Swift, JavaScript
 - OS・DB：Android, iOS, Mac OS, SQLite
 - ライブラリ・フレームワーク：Flutter, Appium, Swagger, FCM, Mockito, Notification Hubs
 - ツール：Azure DevOps, Git, Backlog, Toggl, Mmock, Docker, Typora, ngrok, Xcode, zoom, VS Code, Slack, Android Studio
@@ -340,7 +345,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 開発環境
 
-- 言語：Java
+- 言語：Java, shell script
 - OS・DB：Android, Windows, Ubuntu, SQLite
 - ライブラリ・フレームワーク：Andorid SDK, Javadoc
 - ツール：Android Studio, JIRA, Redmine, Gerrit, Repo, Git, Mattermost
@@ -527,7 +532,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - TimeTicket というサービスにて、プログラミング関連の相談に乗っていました
   - <https://blog.timeticket.jp/post/108879706835/%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F>
 - スパルタキャンプ Java/Android 編 講師（2015 年 10 月、2016 年 3 月）
-  - 3、4 日間かけて Android アプリの開発を学べるプログラミング教室で講師を務めました
+  - 3〜4 日間かけて Android アプリの開発を学べるプログラミング教室で講師を務めました
   - ![sparta_camp.jpg](img/sparta_camp.jpg)
 - 妖怪笑い袋（スマートスピーカーアプリ）の開発およびリリース
   - 全てのキーワードに対して、ランダムに笑い声を返すだけのスキルです
@@ -558,7 +563,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - 出社が必要な場合、東京都 23 区内もしくは千葉県内への出社であれば可能です
 - 言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えたり、提案しやすい環境を希望します
 - 役職関係なく、フラットにコミュニケーションを取り合える環境を希望します
-- 新しい挑戦（新技術の導入など）に積極的に取り組める環境を希望します
+- 新しい挑戦（新技術の導入など）や、技術的負債の解消に積極的に取り組める環境を希望します
 - フレックス制度や育休制度などがあり、その時の状況によって労働環境や労働時間を変えやすい環境を希望します
   - 2024 年 5 月に第 1 子が生まれ、育児中であるため急な休みや早退などの可能性があることを承知いただけると幸いです
 - 技術発信や勉強会、カンファレンスへの参加に対して会社として支援いただける環境を希望します
