@@ -45,8 +45,6 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 |2010年2月|日商簿記2級|
 |2010年3月|全商検定5冠（電卓、ワープロ、プログラミング、ビジネス情報、簿記）|
 |2011年9月|普通自動車第一種運転免許|
-|2023年5月|整理収納アドバイザー2級|
-|2023年6月|クリンネスト2級|
 
 ## 職務経歴詳細
 
