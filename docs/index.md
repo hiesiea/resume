@@ -110,7 +110,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - Web ページ表示機能の実装
   - 広告の分割表示機能の実装
   - 他社向けへの新規アプリ追加
-  - その他バグ調査、修正を担当
+  - その他不具合調査、修正を担当
 - 今後の機能追加のため、Android Jetpack を活用してのリプレイス対応
   - 公式ホームページのアプリアーキテクチャガイドをベースに MVVM アーキテクチャを採用
   - Room, Retrofit(OkHttp)を利用しての Repository クラスの実装
@@ -161,7 +161,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - 要求元チームとの要求仕様の確認および整理
 - リリースに向けたブランチのマージ作業
 - モックサーバの立て方について DocBase への情報共有
-- バグ解析、調査
+- 不具合解析、調査
 
 #### 2019年7月〜2020年1月 モバイルアプリの追加開発・改修
 
@@ -235,8 +235,6 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - MediaCas、MediaDescrambler、MediaCodec クラスに関するドキュメント調査、シーケンス図の作成
 - マルチキャスト構成の調査と、配信ツールの比較選定、資料作成
 - MMT(MPEG Media Transport)や、コーデックに関する調査
-  - パケット構成の調査と、Reader と Demuxer の実装
-  - ARIB、ISO 規格との差分調査、資料作成
 - コードレビュー、メンバーが作成した資料のレビュー
 
 #### 2017年12月〜2018年3月 ペット心電図アプリ開発
@@ -253,9 +251,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- バグ修正
-  - 環境による UI くずれの修正
-  - 計測結果表示バグの修正
+- 不具合修正
 - エンドユーザ様との合同デバッグ
 - i18next による多言語化対応
 
@@ -273,12 +269,10 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- ザッピング機能の詳細設計、実装、結合試験、総合試験の実施、リリース作業を担当
-  - 設計に関しては、シーケンス図作成と Word による仕様書の修正
-  - 実装は Java で、リモコンのキーイベント制御の実装
-- 不具合解析および改修。不具合解析のため、Wireshark によるパケット解析の実施。API との疎通確認や、ルータとの IGMP パケットの疎通確認などを実施
+- ザッピング機能の詳細設計、実装、結合試験、総合試験、リリース作業の実施
+- 不具合解析のため、Wireshark によるパケット解析の実施。API との疎通確認や、ルータとの IGMP パケットの疎通確認などを実施
 - Volley から別の通信ライブラリへの置き換えのため、通信ライブラリの比較選定および、実際に置き換えての動作検証
-- Android Oreo へのアップデート対応。具体的には、新機能に関する調査、非推奨 API となった API の置き換えを実施
+- Android Oreo へのアップデート対応
 
 #### 2017年11月〜2018年5月 スマートスピーカー検討
 
@@ -294,13 +288,9 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- スマートスピーカー(Google Home、Amazon Echo)に関する調査
-  - アプリのシーケンス図の作成
-  - 各スマートスピーカーの機能一覧および比較表の作成
-- STB 連携に関する調査検討
-  - 各スマートスピーカーのサンプルアプリの作成
-  - 調査報告書の作成
-  - 客先での打ち合わせ、デモ実施
+- スマートスピーカー(Google Home、Amazon Echo)に関する調査および資料作成
+- STB 連携に関する調査検討および納品用の調査報告書の作成
+- 客先での打ち合わせ、デモ実施
 
 #### 2017年10月〜2017年11月 社内新人研修
 
@@ -314,11 +304,9 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- スケジュール、カリキュラム作成
-  - 2 か月間、1 日 8 時間のスケジュール作成、各日の到達目標設定
-- 研修内で作成したアプリの評価
-- コードレビュー、設計書レビュー
-- 新人へのマネジメント、進捗管理
+- 2 か月間、1 日 8 時間のスケジュールおよびカリキュラムの作成
+- 設計およびコードレビュー
+- 新人へのマネジメントおよび進捗管理
 
 #### 2017年4月〜2017年9月 Android 搭載 の IoT デバイスの新規開発
 
@@ -336,9 +324,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- スマホアプリ側に提供する I/F 仕様書作成（Javadoc）および、Service コンポーネントを利用した IoT デバイス側の実装、結合試験書の作成および実施を担当
-  - 実装として、IoT デバイスが収集したデータを分析して DB に格納し、定期的に DB データをバイナリデータ化して ZIP 圧縮してサーバに送信する処理の実装を担当
-  - 結合試験書の作成では、2 機能分で項目数 400 項目弱の項目の洗い出しを行った
+- スマホアプリ側に提供する I/F 仕様書作成（Javadoc）
+- Service コンポーネントを利用した IoT デバイス側の実装、結合試験書の作成および実施
 
 #### 2016年10月〜2017年3月 Android 搭載のコミュニケーションロボットの新規開発
 
@@ -390,7 +377,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- 15 日間、1 日 8 時間のスケジュールおよびカリキュラムの作成、各日の到達目標設定
+- 15 日間、1 日 8 時間のスケジュールおよびカリキュラムの作成
 - Qiita での教材作成
 - 当日のメイン講師
 
@@ -408,17 +395,9 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- アプリのフロントエンド全ての実装および、ライブラリやフレームワーク等の選定を担当
-  - フロントエンドの実装として、uGUI を用いた各画面の UI、画面遷移処理の実装
-  - iTween による画面タッチ時のエフェクト等のアニメーション実装
-  - Joker Script を用いたアドベンチャー（ノベル形式）モードの実装
-  - Cardboard SDK を用いた VR 機能の実装
-  - d3.js を用いた画像プレビュー機能の実装
+- ライブラリやフレームワーク等の選定
+- アプリの UI、画面遷移など全ての実装を 1 人で担当
 - Google Play および App Store へのリリース作業
-  - リリースにあたって無駄なリソースの削除
-  - apk ファイルや ipa ファイルの書き出し及び署名実施
-  - プロビジョニングプロファイルの作成、ストアへの提出
-  - リジェクト対応
 
 ### 2014年4月〜2015年8月 株式会社ケイ・アイ・テック
 
@@ -436,10 +415,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- Swing を用いた 画面 UI の実装
-  - 全体的な画面構成、画面遷移の実装
-  - 社内の独自ライブラリを用いた家具の設置、移動などの制御実装
-  - XML 形式でのデータ保存機能の実装
+- Swing を用いた全体的な 画面 UI 、画面遷移の実装
+- XML 形式でのデータ保存機能の実装
 
 #### 2014年7月〜2015年3月 プレゼンボード作成 Web システムの新規開発
 
@@ -456,11 +433,9 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 ##### 業務内容
 
 - Swing を用いての図形や画像などのオブジェクトの描画、回転、縮小機能の実装
-- PDF 出力機能の実装
+- PDFLib を用いた PDF 出力機能の実装
 - MySQL を用いた DB チューニング、テスト用データの作成
 - SAStruts, Seasar2 による API の実装
-  - 画像アップロード、コピー、更新、削除機能の実装
-  - ディレクトリトラバーサル対策
 
 #### 2014年5月〜2014年6月 ウッドデッキ見積 Web システムの不具合改修
 
@@ -477,8 +452,6 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 ##### 業務内容
 
 - 不具合調査および修正
-  - 文言修正
-  - 計算ロジック修正
 
 ## 学会発表
 
@@ -517,8 +490,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ## 希望条件
 
-- リモートワークでの勤務を希望します
-  - 出社が必要な場合、東京都 23 区内もしくは千葉県内への出社であれば可能です
+- リモートワークでの勤務希望です、出社が必要な場合、東京都 23 区内もしくは千葉県内への出社であれば可能です（出社回数は応相談）
 - 言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えたり、提案しやすい環境を希望します
 - 役職関係なく、フラットにコミュニケーションを取り合える環境を希望します
 - 新しい挑戦（新技術の導入など）や、技術的負債の解消に積極的に取り組める環境を希望します
