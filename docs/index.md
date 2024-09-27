@@ -444,10 +444,6 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 不具合調査および修正
 
-## 学会発表
-
-- 鎌田均、 丸橋駿平、 澤野弘明： “指差し動作を利用したカーナビのための助手席ユーザの経路指示方法の一調査”, 電子情報通信学会総合大会 ISS 特別企画「学生ポスターセッション」, ISS-SP-317, 1 page (2013-3)
-
 ## 業務外活動
 
 - ワールドビジネスサテライト 2015 年 1 月 22 日出演
@@ -471,6 +467,10 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - 主に Qiita, Zenn などで実務等で得られた技術的知見を発信しています
 - OSS 活動
   - DroidKaigi 2021〜2024 official app コントリビューター
+
+## 学会発表
+
+- 鎌田均、 丸橋駿平、 澤野弘明： “指差し動作を利用したカーナビのための助手席ユーザの経路指示方法の一調査”, 電子情報通信学会総合大会 ISS 特別企画「学生ポスターセッション」, ISS-SP-317, 1 page (2013-3)
 
 ## 免許・資格
 
