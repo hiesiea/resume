@@ -65,7 +65,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - Single アクティビティ に移行
   - Android View を Jetpack Compose に移行、UI テストの導入
   - マルチモジュールの導入
-  - 通信処理を Retrofit に移行
+  - 自前で実装されていた通信処理を Retrofit に移行
   - JSON ライブラリについて、org.json と Gson がごちゃ混ぜになっていたので Moshi に一本化
   - Serializable なデータクラスを Parcelable に移行
   - RxJava 3 から Kotlin Flow に移行
@@ -96,23 +96,21 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ##### 業務内容
 
-- 主に Android アプリの機能追加、不具合改修、リリース作業を担当
+- Android アプリの機能追加、不具合改修、リリース作業
   - 異常報告機能の過剰報告の抑止対応
   - Web ページ表示機能の実装
   - 広告の分割表示機能の実装
   - 他社向けへの新規アプリ追加
-  - その他不具合調査、修正を担当
 - 今後の機能追加のため、Android Jetpack を活用してのリプレイス対応
   - 公式ホームページのアプリアーキテクチャガイドをベースに MVVM アーキテクチャを採用
   - Room, Retrofit(OkHttp)を利用しての Repository クラスの実装
-  - Kotlin Coroutines による非同期処理の実装
-  - ViewModel, LiveData, DataBinding による View と ViewModel の連携
+  - 非同期処理を Thread から Kotlin Coroutines に移行
+  - ViewModel, LiveData, DataBinding による UI ロジックの実装
   - Hilt による DI の導入
   - JUnit, MockK によるテストコードの実装
-  - グローバル変数、メソッドの排除
   - 複雑化していたロジックのシンプル化
   - 映像切り替え時のパフォーマンスチューニングを実施
-  - Postman, Mmock, Docker によるモックサーバの構築
+  - API 未実装の箇所の実装を先行して進められるよう、Postman, Mmock, Docker によるモックサーバの構築
   - ビルドバリアントの整理
 - Windows アプリの新規開発にあたっての技術選定
   - WPF, UWP などの各種プラットフォームの概要調査
@@ -144,11 +142,10 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - AB テスト取込
   - AB テストの結果を機能概要書、ソースコードに反映
   - 単体、結合試験書の作成および実施
-- 地図検索機能の開発
+- 地図検索機能の開発検討
   - API チームとの仕様確認および調整
   - Maps SDK for Android の調査および DocBase への情報共有
-  - 機能概要書の作成
-  - プロトタイプ作成
+  - 機能概要書、プロトタイプ作成
   - 要求元チームとの要求仕様の確認および整理
 - リリースに向けたブランチのマージ作業
 - モックサーバの立て方について DocBase への情報共有
@@ -169,13 +166,13 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 ##### 業務内容
 
 - スクラム開発、1 週間スプリントによるイテレーション
-- 開発メンバーとして、フロントエンドの要件定義、設計、実装、テストを担当
-  - 設計に関しては、Markdown によるドキュメント作成および、元々 Excel で記載されていた設計書を Markdown 形式への移行作業も担当
+- フロントエンドの要件定義、設計、実装、テスト
+  - 設計に関しては、Markdown によるドキュメント作成および、元々 Excel で記載されていた設計書を Markdown 形式への移行作業
   - UI に関してはマテリアルデザインをベースに設計
   - アーキテクチャは BLoC パターンを採用
-  - プッシュ通知（Notification Hubs）の改修に関しては、ネイティブ側（Android）の実装を Kotlin で行った
+  - プッシュ通知（Notification Hubs）の改修
   - テストに関しては、ロジック部分を Mockito でユニットテストを実装
-  - Mmock と Docker によるモックサーバの構築および、YAML でのモックデータ作成を担当
+  - API 未実装の箇所の実装を先行して進められるよう、Mmock と Docker によるモックサーバの構築および、YAML でのモックデータ作成
   - Android 10 に関する調査およびリリース対応
   - 64bit 対応に関する調査およびリリース対応
   - Azure Pipelines による CI 環境の構築。ビルドおよびテスト実行結果を Slack へ通知する仕組みを実現
@@ -200,11 +197,12 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 ##### 業務内容
 
 - スクラム開発、1 週間スプリントによるイテレーション
-- 開発メンバーとして、フロントエンドの要件定義、設計、実装、テストを担当
+- フロントエンドの要件定義、設計、実装、テスト
   - 設計に関しては、Markdown によるドキュメント作成
   - UI に関してはマテリアルデザインをベースに設計
   - 実装に関しては、言語は Kotlin、アーキテクチャは MVVM パターンを採用
-  - テストに関しては、ロジック部分を Kotlin でユニットテストを実装。また、Mmock と Docker によるモックサーバの構築および、YAML でのモック作成も担当
+  - テストに関しては、ロジック部分を Kotlin でユニットテストを実装
+  - API 未実装の箇所の実装を先行して進められるよう、Mmock と Docker によるモックサーバの構築および、YAML でのモック作成
 - お手続き資料請求アプリ、請求確認アプリそれぞれの共通処理を Git submodule で別リポジトリとして分割
 
 ### 2015年10月〜2019年3月 株式会社ASCOM
@@ -333,8 +331,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 ##### 業務内容
 
 - アジャイル開発、2 週間スプリントによるイテレーション
-- 要件定義書の作成、astah によるクラス図作成、Java によるフロントエンドの実装、JUnit による内部ロジックのテストコードの実装を担当
-  - フロントエンドの実装として、正規表現によるパラフレーズ対応、UI ロジックおよび UI の実装を担当
+- フロントエンドの要件定義、設計、実装、テスト
 - 音声認識率の低下の問題が発生したため、場所を変えての環境音の収集、および動作時の認識率といった、原因の調査に必要なデータの収集
 
 #### 2016年5月〜2016年8月 大手物流企業向け宅配管理システム開発
@@ -387,7 +384,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 ##### 業務内容
 
 - ライブラリやフレームワーク等の選定
-- アプリの UI、画面遷移など全ての実装を 1 人で担当
+- アプリの UI、画面遷移など全ての実装
 - Google Play および App Store へのリリース作業
 
 ### 2014年4月〜2015年8月 株式会社ケイ・アイ・テック
