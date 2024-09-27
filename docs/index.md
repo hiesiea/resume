@@ -37,15 +37,6 @@ Kotlin（5 年半）, Java（5 年半）, Dart（半年）, C#（1 年半）, Sw
 
 Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore, Media3), RxJava 3, Kotlin Coroutines, Kotlin Flow, OkHttp3, Retrofit2, Moshi, Glide, JUnit, Mockito, Flutter
 
-### 免許・資格
-
-|年月|免許・資格|
-|---|---|
-|2009年11月|基本情報技術者試験|
-|2010年2月|日商簿記2級|
-|2010年3月|全商検定5冠（電卓、ワープロ、プログラミング、ビジネス情報、簿記）|
-|2011年9月|普通自動車第一種運転免許|
-
 ## 職務経歴詳細
 
 ### 2019年4月〜現在 フリーランス
@@ -480,6 +471,15 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - 主に Qiita, Zenn などで実務等で得られた技術的知見を発信しています
 - OSS 活動
   - DroidKaigi 2021〜2024 official app コントリビューター
+
+## 免許・資格
+
+|年月|免許・資格|
+|---|---|
+|2009年11月|基本情報技術者試験|
+|2010年2月|日商簿記2級|
+|2010年3月|全商検定5冠（電卓、ワープロ、プログラミング、ビジネス情報、簿記）|
+|2011年9月|普通自動車第一種運転免許|
 
 ## 今後の展望
 
