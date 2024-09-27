@@ -22,19 +22,19 @@
 
 ### 職務要約
 
-Kotlin, Java による Android ネイティブアプリ開発や、他にも Flutter, Unity によるクロスプラットフォーム開発など、様々なプロジェクトを経験してきました。
+Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unity によるクロスプラットフォーム開発など、様々な技術やプロジェクトを経験してきました。
 
 1 社目では住宅関連 Web3D/CAD システム開発の企業に入社し、toB 向けの Web システムの開発に従事しました。具体的には、Java によるフロントエンド、バックエンドの開発を担当しました。
 
-2 社目では SES 企業に入社し、Java の経験を活かして主に Android のネイティブアプリ開発のプロジェクトに複数従事しました。
+2 社目では SES 企業に入社し、Java の経験を活かして主に Android のネイティブアプリ開発のプロジェクトに従事しました。
 
-2 社目を退社後、フリーランスとして独立して主に Android のネイティブアプリ開発のプロジェクトに複数従事しました。直近では、これまでの経験や現場での実績を買われて Android アプリ開発におけるテックリードを経験させていただいております。
+2 社目を退社後、フリーランスとして独立して主に Android のネイティブアプリ開発のプロジェクトに従事しました。直近では、これまでの経験や現場での実績を買われて Android アプリ開発におけるテックリードをさせていただいております。
 
 ### 自己PR
 
 私の強みとしては、8 年以上にわたる Android ネイティブアプリ開発の経験があること、レガシーコードのリファクタリングおよびリプレイスを得意としていることです。
 
-「`N`予備校開発支援業務」では、自前で実装されていた通信処理を Retrofit に移行したり、RxJava 3 から Kotlin Flow に移行したりなどのリファクタリングに取り組みました。その際、他メンバーがすぐ着手できるよう実装方針をまとめたドキュメントを作成したり、小さな単位でタスクを作成することでいずれも無事完遂させることができました。これらの取り組みにより、可読性の向上やコード量の削減に貢献しました。チームメンバーからもドキュメントがわかりやすいと評価してただきました。
+「`N`予備校開発支援業務」では、自前で実装されていた通信処理を Retrofit に移行したり、RxJava 3 から Kotlin Flow に移行したりなどのリファクタリングに取り組みました。その際、他メンバーがすぐ着手できるよう実装方針をまとめたドキュメントを作成したり、必要最小限の単位でタスクを作成することでいずれも無事完遂させることができました。これらの取り組みにより、可読性の向上やコード量の削減に貢献しました。チームメンバーからもドキュメントがわかりやすいと評価していただきました。
 
 将来的にはテックリードとしての経験をもっと積んでいき、技術にも携わりつつマネジメントもできる人材を目指したいです。
 
@@ -46,7 +46,7 @@ Kotlin（5 年半）, Java（5 年半）, Dart（半年）, C#（1 年半）, Sw
 
 ### 主な使用可能フレームワーク・ライブラリ等
 
-Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore, Media3), RxJava 3, Kotlin Coroutines, Kotlin Flow, OkHttp3, Retrofit2, Moshi, Glide, JUnit, Mockito, Flutter
+Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore, Media3）, RxJava 3, Kotlin Coroutines, Kotlin Flow, OkHttp3, Retrofit2, Moshi, Glide, JUnit, Mockito, Flutter
 
 ## 職務経歴詳細
 
@@ -56,8 +56,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：ZEN Study（旧：`N`予備校）Android アプリの開発支援業務
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
-- 役割：当初は SE として参画、2023 年よりテックリード
-- 規模：6 名（PM1 名、PL1 名、SE4 名）
+- 役割：当初はメンバーとして参画、2023 年よりテックリード
+- 規模：6 名（マネージャー1 名、リーダー1 名、テックリード 1 名、メンバー3 名）
 - 開発環境：
   - 言語：Kotlin, Markdown
   - OS・DB：Android, Mac OS
@@ -115,8 +115,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：Windows および Android 向けの屋外広告配信システム開発案件
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
-- 役割：SE
-- 規模：6 名（PM1 名、PL1 名、SE4 名）
+- 役割：メンバー
+- 規模：6 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー4 名）
 - 開発環境：
   - 言語：Kotlin, C#
   - OS・DB：Android, Windows, Mac OS, SQLite
@@ -157,7 +157,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：バイトルアプリ（Android・iOS）の追加開発・改修
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
-- 役割：SE
+- 役割：メンバー
 - 規模：11〜50 名
 - 開発環境：
   - 言語：Java, Kotlin, Swift, Markdown
@@ -240,7 +240,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：MMT(MPEG Media Transport) を Android 上で実現するための検討および調査
 - 担当工程：要件定義
-- 役割：SE
+- 役割：メンバー
 - 規模：6〜10 名
 - 開発環境：
   - 言語：Java
@@ -259,7 +259,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：ペット用の心電図アプリの開発
 - 担当工程：実装、テスト
-- 役割：PG
+- 役割：メンバー
 - 規模：1〜5 名
 - 開発環境：
   - 言語：C#, JavaScript, HTML
@@ -277,8 +277,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：Android TV 搭載の STB 専用の、IPTV アプリの衛星放送プレイヤー部分の追加開発・改修
 - 担当工程：設計、コーディング、テスト、運用/保守
-- 役割：SE
-- 規模：5 名（PM1 名、PL1 名、SE3 名）
+- 役割：メンバー
+- 規模：5 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー3 名）
 - 開発環境：
   - 言語：Java
   - OS・DB：Android TV, Windows
@@ -296,7 +296,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：スマートスピーカーと STB の連携方法に関する調査・検討
 - 担当工程：要件定義
-- 役割：SE
+- 役割：メンバー
 - 規模：1〜5 名
 - 開発環境：
   - 言語：JavaScript, HTML, CSS
@@ -330,10 +330,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：Android 搭載の非接触センサー付 IoT デバイスの新規開発
 - 担当工程：設計、コーディング、テスト
-- 役割：PG
-- 規模：31 名（PM1 名、PL5 名、SE・PG15 名、テスター10 名）
-  - 各機能ごとでチームに分かれ、各チームに PL1 名、SE・PG1〜3 名の構成
-  - テストチームに関しては PL1 名、テスター10 名の構成
+- 役割：メンバー
+- 規模：31 名（プロジェクトマネージャー1 名、プロジェクトリーダー5 名、開発メンバー15 名、テスター10 名）
 - 開発環境：
   - 言語：Java, shell script
   - OS・DB：Android, Windows, Ubuntu, SQLite
@@ -349,8 +347,8 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：Android 搭載の音声認識、顔認識によるコミュニケーションロボットの新規開発
 - 担当工程：要件定義、設計、コーディング、テスト
-- 役割：SE
-- 規模：12 名（マネージャー1 名、デザイナー1 名、SE10 名）
+- 役割：メンバー
+- 規模：12 名（マネージャー1 名、デザイナー1 名、メンバー10 名）
 - 開発環境：
   - 言語：Java
   - OS・DB：Android, Windows
@@ -367,7 +365,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：大手物流企業向けの宅配管理を行うための Andorid アプリの開発
 - 担当工程：設計、コーディング
-- 役割：SE
+- 役割：メンバー
 - 規模：11〜50 名
 - 開発環境：
   - 言語：Java
@@ -402,7 +400,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：iOS、Android 向けの地方観光支援のためのスマホゲームアプリの新規開発
 - 担当工程：コーディング、テスト
-- 役割：SE
+- 役割：メンバー
 - 規模：6〜10 名
 - 開発環境：
   - 言語：C#, JavaScript
@@ -422,7 +420,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：収納家具のレイアウトを作図し、作図内容をもとに見積もり金額を算出するための Web システム
 - 担当工程：コーディング、テスト
-- 役割：PG
+- 役割：メンバー
 - 規模：6〜10 名
 - 開発環境：
   - 言語：Java
@@ -439,7 +437,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：プレゼンボードやチラシを作成するための Web システム
 - 担当工程：コーディング、テスト
-- 役割：PG
+- 役割：メンバー
 - 規模：6〜10 名
 - 開発環境：
   - 言語：Java, HTML, JavaScript
@@ -458,7 +456,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 - 概要：ウッドデッキを作図し、作図内容をもとに見積もり金額を算出するための Web システム
 - 担当工程：コーディング、テスト、運用/保守
-- 役割：PG
+- 役割：メンバー
 - 規模：1〜5 名
 - 開発環境：
   - 言語：Java
@@ -496,7 +494,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 
 ## 学会発表
 
-- 鎌田均、 丸橋駿平、 澤野弘明： “指差し動作を利用したカーナビのための助手席ユーザの経路指示方法の一調査”, 電子情報通信学会総合大会 ISS 特別企画「学生ポスターセッション」, ISS-SP-317, 1 page (2013-3)
+- 鎌田均、丸橋駿平、澤野弘明： “指差し動作を利用したカーナビのための助手席ユーザの経路指示方法の一調査”, 電子情報通信学会総合大会 ISS 特別企画「学生ポスターセッション」, ISS-SP-317, 1 page (2013-3)
 
 ## 免許・資格
 
