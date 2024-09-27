@@ -58,7 +58,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build
   - ツール：Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - 機能追加、不具合改修
   - 接続先サーバの移行対応
@@ -81,11 +81,29 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - 新技術導入に向けた調査、ドキュメント作成および共有
   - リファクタリングタスクの工数見積もり、計画作成、チームメンバーへの割り振り
   - Codelab にて学習コンテンツの選定
-  - リファクタリングの取り組みを記事化
+  - チーム内での取り組みを Qiita にて記事化し発信
   - コードレビュー、ペアプロ
   - GitHub のプルリクエストのテンプレート改善
   - インターン生の開発サポート
 - DroidKaigi への参加
+
+リーダーから与えられたタスクだけでなく、改善できそうな箇所（アーキテクチャに沿っていない、Deprecated な処理があるなど）に関して改善案を提案したり、リファクタリングを積極的に進めるようにしました。その結果、評価されてテックリードを任せてもらえるようになりました。
+
+新技術導入に向けた調査、ドキュメント作成および共有をしていく中で、ただ調べた内容を共有するのではなく、実際に手を動かしてアプリの動作にも影響がないかどうかも検証したうえでより正確な情報を提供するようにしました。また、コード例も記載して他メンバーが実装をイメージできるようにすることで、チームメンバーからはわかりやすいとの評価を得られ、属人化を防ぐことができました。
+
+ソースコードのバージョン管理として、GitHub を運用していましたが、プルリクエストを出す際に以下の課題がありました。
+
+- 複数機能の修正を 1 つのプルリクエストにまとめてしまい、レビュアーの負担を増やしてしまっていた
+- レビューに必要な情報（仕様書のリンク、確認可能な環境、ユーザー情報、確認手順、キャプチャなど）の記載忘れがあり、その確認のために余計なコミュニケーションが発生してしまっていた
+
+そこで、以下の取り組みを行いました。
+
+- 極力プルリクエストを分割する
+- コミットの単位を細かくして、それぞれのコミットメッセージを詳細に書く
+- 修正内容についてわかりにくそうな点があれば適宜コメントで補足するようにした
+- プルリクエストのテンプレートに必要事項を記載するための欄を追加した
+
+これにより、各メンバーがレビュアーの負担を減らすことを考慮したプルリクエストを作成する習慣が身につき、レビューにかかる時間が短縮されるようになりました。
 
 #### 2020年6月〜2021年2月 屋外広告配信システム開発案件
 
@@ -99,7 +117,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android Jetpack, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix
   - ツール：Android Studio, Visual Studio, JIRA, GitLab, GitHub, Slack, zoom, VS Code, LucidChart, Postman, Mmock, Docker, Confluence
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - Android アプリの機能追加、不具合改修、リリース作業
   - 異常報告機能の過剰報告の抑止対応
@@ -141,7 +159,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Retrofit, Swagger, Maps SDK for Android, Adobe Target
   - ツール：Android Studio, Xcode, Redmine, Backlog, GitHub, VS Code, PlantUML, Postman, Mmock, ngrok, Toggl, DocBase, Bitrise, VS App Center, Slack
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - コードレビュー
 - AB テスト取込
@@ -168,7 +186,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Flutter, Appium, Swagger, FCM, Mockito, Notification Hubs
   - ツール：Azure DevOps, Git, Backlog, Toggl, Mmock, Docker, Typora, ngrok, Xcode, zoom, VS Code, Slack, Android Studio
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - スクラム開発、1 週間スプリントによるイテレーション
 - フロントエンドの要件定義、設計、実装、テスト
@@ -199,7 +217,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide
   - ツール：Android Studio, Azure DevOps, Backlog, Git, Toggl, zoom, miro, Docker, Slack, VS Code, Mmock
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - スクラム開発、1 週間スプリントによるイテレーション
 - フロントエンドの要件定義、設計、実装、テスト
@@ -224,7 +242,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android SDK, ExoPlayer
   - ツール：Android Studio, GitHub, Backlog, Redmine, Wireshark, tcpreplay
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - MediaCas、MediaDescrambler、MediaCodec クラスに関するドキュメント調査、シーケンス図の作成
 - マルチキャスト構成の調査と、配信ツールの比較選定、資料作成
@@ -243,7 +261,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：i18next, Windows Form
   - ツール：Redmine, Git, Visual Studio 2017
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - 不具合修正
 - エンドユーザ様との合同デバッグ
@@ -261,7 +279,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android SDK, OkHttp、Volley, ExoPlayer
   - ツール：Android Studio, Subversion, Redmine, Wireshark
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - ザッピング機能の詳細設計、実装、結合試験、総合試験、リリース作業の実施
 - 不具合解析のため、Wireshark によるパケット解析の実施。API との疎通確認や、ルータとの IGMP パケットの疎通確認などを実施
@@ -280,7 +298,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Node.js, JQuery, Bootstrap
   - ツール：ngrok, Redmine, Dialogflow, Alexa Skills Kit, IFTTT, Git, Actions on Google, Node-RED
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - スマートスピーカー(Google Home、Amazon Echo)に関する調査および資料作成
 - STB 連携に関する調査検討および納品用の調査報告書の作成
@@ -296,7 +314,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - OS・DB：Windows, Mac
   - ツール：GitHub
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - 2 か月間、1 日 8 時間のスケジュールおよびカリキュラムの作成
 - 設計およびコードレビュー
@@ -316,7 +334,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Andorid SDK, Javadoc
   - ツール：Android Studio, JIRA, Redmine, Gerrit, Repo, Git, Mattermost
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - スマホアプリ側に提供する I/F 仕様書作成（Javadoc）
 - Service コンポーネントを利用した IoT デバイス側の実装、結合試験書の作成および実施
@@ -333,7 +351,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android SDK, Data Binding, JUnit, AssertJ
   - ツール：Android Studio, JIRA, GitHub, Checkstyle, FindBugs, astah, Coverity, Jenkins
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - アジャイル開発、2 週間スプリントによるイテレーション
 - フロントエンドの要件定義、設計、実装、テスト
@@ -351,7 +369,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android SDK
   - ツール：Eclipse, Redmine, JIRA, CAT, TortoiseSVN
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - ソースコードの解析および詳細設計書の修正といったリバースエンジニアリング対応
 - 他機能との連携処理の設計〜実装、設計案の検討および、エンドユーザへの提案
@@ -368,7 +386,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Android SDK
   - ツール：Android Studio, GitHub, Qiita
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - 15 日間、1 日 8 時間のスケジュールおよびカリキュラムの作成
 - Qiita での教材作成
@@ -386,7 +404,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：d3.js, Cardboard SDK, Joker Script
   - ツール：Unity, Backlog, TortoiseSVN, Xcode
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - ライブラリやフレームワーク等の選定
 - アプリの UI、画面遷移など全ての実装
@@ -406,7 +424,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Jakarta Tomcat, Swing
   - ツール：Eclipse, GitHub, Redmine, SQL Server, Sourcetree
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - Swing を用いた全体的な 画面 UI 、画面遷移の実装
 - XML 形式でのデータ保存機能の実装
@@ -423,7 +441,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：PDFLib, Apache Tomcat, SAStruts, Seasar2, Swing
   - ツール：Eclipse, GitLab, Redmine, MySQL Workbench
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - Swing を用いての図形や画像などのオブジェクトの描画、回転、縮小機能の実装
 - PDFLib を用いた PDF 出力機能の実装
@@ -442,7 +460,7 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
   - ライブラリ・フレームワーク：Jakarta Tomcat, Swing
   - ツール：Eclipse, Subversion
 
-##### プロジェクト詳細・担当業務・主な実績
+##### 業務内容・主な実績
 
 - 不具合調査および修正
 
@@ -490,5 +508,5 @@ Android Jetpack(Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore,
 - 役職関係なく、フラットにコミュニケーションを取り合える環境を希望します
 - 新しい挑戦（新技術の導入など）や、技術的負債の解消に積極的に取り組める環境を希望します
 - フレックス制度や育休制度などがあり、その時の状況によって労働環境や労働時間を変えやすい環境を希望します
-  - 2024 年 5 月に第 1 子が生まれ、育児中であるため急な休みや早退などの可能性があることを承知いただけると幸いです
+  - 2024 年 5 月に第 1 子が生まれたため、休みや早退などの可能性があることを承知いただけると幸いです
 - 技術発信や勉強会、カンファレンスへの参加に対して会社として支援いただける環境を希望します
