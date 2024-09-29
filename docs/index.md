@@ -58,11 +58,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
 - 役割：当初はメンバーとして参画、2023 年よりテックリード
 - 規模：6 名（マネージャー1 名、リーダー1 名、テックリード 1 名、メンバー3 名）
-- 開発環境：
-  - 言語：Kotlin, Markdown
-  - OS・DB：Android, Mac OS
-  - ライブラリ・フレームワーク：Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build
-  - ツール：Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado
+- 言語：Kotlin, Markdown
+- OS・DB：Android, Mac OS
+- ライブラリ・フレームワーク：Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build
+- ツール：Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado
 
 ##### 業務内容・主な実績
 
@@ -117,11 +116,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
 - 役割：メンバー
 - 規模：6 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー4 名）
-- 開発環境：
-  - 言語：Kotlin, C#
-  - OS・DB：Android, Windows, Mac OS, SQLite
-  - ライブラリ・フレームワーク：Android Jetpack, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix
-  - ツール：Android Studio, Visual Studio, JIRA, GitLab, GitHub, Slack, zoom, VS Code, LucidChart, Postman, Mmock, Docker, Confluence
+- 言語：Kotlin, C#
+- OS・DB：Android, Windows, Mac OS, SQLite
+- ライブラリ・フレームワーク：Android Jetpack, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix
+- ツール：Android Studio, Visual Studio, JIRA, GitLab, GitHub, Slack, zoom, VS Code, LucidChart, Postman, Mmock, Docker, Confluence
 
 ##### 業務内容・主な実績
 
@@ -159,11 +157,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義、設計、コーディング、テスト、運用/保守
 - 役割：メンバー
 - 規模：11〜50 名
-- 開発環境：
-  - 言語：Java, Kotlin, Swift, Markdown
-  - OS・DB：Android, iOS, Mac OS, SQLite, Realm
-  - ライブラリ・フレームワーク：Retrofit, Swagger, Maps SDK for Android, Adobe Target
-  - ツール：Android Studio, Xcode, Redmine, Backlog, GitHub, VS Code, PlantUML, Postman, Mmock, ngrok, Toggl, DocBase, Bitrise, VS App Center, Slack
+- 言語：Java, Kotlin, Swift, Markdown
+- OS・DB：Android, iOS, Mac OS, SQLite, Realm
+- ライブラリ・フレームワーク：Retrofit, Swagger, Maps SDK for Android, Adobe Target
+- ツール：Android Studio, Xcode, Redmine, Backlog, GitHub, VS Code, PlantUML, Postman, Mmock, ngrok, Toggl, DocBase, Bitrise, VS App Center, Slack
 
 ##### 業務内容・主な実績
 
@@ -186,11 +183,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義、設計、コーディング、テスト
 - 役割：開発メンバー
 - 規模：6 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー4 名）
-- 開発環境：
-  - 言語：Dart, Kotlin, Markdown, Swift, JavaScript
-  - OS・DB：Android, iOS, Mac OS, SQLite
-  - ライブラリ・フレームワーク：Flutter, Appium, Swagger, FCM, Mockito, Notification Hubs
-  - ツール：Azure DevOps, Git, Backlog, Toggl, Mmock, Docker, Typora, ngrok, Xcode, zoom, VS Code, Slack, Android Studio
+- 言語：Dart, Kotlin, Markdown, Swift, JavaScript
+- OS・DB：Android, iOS, Mac OS, SQLite
+- ライブラリ・フレームワーク：Flutter, Appium, Swagger, FCM, Mockito, Notification Hubs
+- ツール：Azure DevOps, Git, Backlog, Toggl, Mmock, Docker, Typora, ngrok, Xcode, zoom, VS Code, Slack, Android Studio
 
 ##### 業務内容・主な実績
 
@@ -217,11 +213,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義、設計、コーディング、テスト
 - 役割：開発メンバー
 - 規模：7 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー5 名）
-- 開発環境：
-  - 言語：Kotlin, Markdown, shell script, YAML
-  - OS・DB：Android TV, Mac OS, SQLite
-  - ライブラリ・フレームワーク：Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide
-  - ツール：Android Studio, Azure DevOps, Backlog, Git, Toggl, zoom, miro, Docker, Slack, VS Code, Mmock
+- 言語：Kotlin, Markdown, shell script, YAML
+- OS・DB：Android TV, Mac OS, SQLite
+- ライブラリ・フレームワーク：Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide
+- ツール：Android Studio, Azure DevOps, Backlog, Git, Toggl, zoom, miro, Docker, Slack, VS Code, Mmock
 
 ##### 業務内容・主な実績
 
@@ -242,11 +237,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義
 - 役割：メンバー
 - 規模：6〜10 名
-- 開発環境：
-  - 言語：Java
-  - OS・DB：Android TV, Ubuntu, Windows
-  - ライブラリ・フレームワーク：Android SDK, ExoPlayer
-  - ツール：Android Studio, GitHub, Backlog, Redmine, Wireshark, tcpreplay
+- 言語：Java
+- OS・DB：Android TV, Ubuntu, Windows
+- ライブラリ・フレームワーク：Android SDK, ExoPlayer
+- ツール：Android Studio, GitHub, Backlog, Redmine, Wireshark, tcpreplay
 
 ##### 業務内容・主な実績
 
@@ -261,11 +255,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：実装、テスト
 - 役割：メンバー
 - 規模：1〜5 名
-- 開発環境：
-  - 言語：C#, JavaScript, HTML
-  - OS・DB：Windows
-  - ライブラリ・フレームワーク：i18next, Windows Form
-  - ツール：Redmine, Git, Visual Studio 2017
+- 言語：C#, JavaScript, HTML
+- OS・DB：Windows
+- ライブラリ・フレームワーク：i18next, Windows Form
+- ツール：Redmine, Git, Visual Studio 2017
 
 ##### 業務内容・主な実績
 
@@ -279,11 +272,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：設計、コーディング、テスト、運用/保守
 - 役割：メンバー
 - 規模：5 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー3 名）
-- 開発環境：
-  - 言語：Java
-  - OS・DB：Android TV, Windows
-  - ライブラリ・フレームワーク：Android SDK, OkHttp、Volley, ExoPlayer
-  - ツール：Android Studio, Subversion, Redmine, Wireshark
+- 言語：Java
+- OS・DB：Android TV, Windows
+- ライブラリ・フレームワーク：Android SDK, OkHttp、Volley, ExoPlayer
+- ツール：Android Studio, Subversion, Redmine, Wireshark
 
 ##### 業務内容・主な実績
 
@@ -298,11 +290,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義
 - 役割：メンバー
 - 規模：1〜5 名
-- 開発環境：
-  - 言語：JavaScript, HTML, CSS
-  - OS・DB：Windows, SQLite
-  - ライブラリ・フレームワーク：Node.js, JQuery, Bootstrap
-  - ツール：ngrok, Redmine, Dialogflow, Alexa Skills Kit, IFTTT, Git, Actions on Google, Node-RED
+- 言語：JavaScript, HTML, CSS
+- OS・DB：Windows, SQLite
+- ライブラリ・フレームワーク：Node.js, JQuery, Bootstrap
+- ツール：ngrok, Redmine, Dialogflow, Alexa Skills Kit, IFTTT, Git, Actions on Google, Node-RED
 
 ##### 業務内容・主な実績
 
@@ -315,10 +306,9 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 概要：新入社員向けのプログラミング研修
 - 役割：講師
 - 規模：11〜20 名
-- 開発環境：
-  - 言語：Java, C#
-  - OS・DB：Windows, Mac
-  - ツール：GitHub
+- 言語：Java, C#
+- OS・DB：Windows, Mac
+- ツール：GitHub
 
 ##### 業務内容・主な実績
 
@@ -332,11 +322,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：設計、コーディング、テスト
 - 役割：メンバー
 - 規模：31 名（プロジェクトマネージャー1 名、プロジェクトリーダー5 名、開発メンバー15 名、テスター10 名）
-- 開発環境：
-  - 言語：Java, shell script
-  - OS・DB：Android, Windows, Ubuntu, SQLite
-  - ライブラリ・フレームワーク：Andorid SDK, Javadoc
-  - ツール：Android Studio, JIRA, Redmine, Gerrit, Repo, Git, Mattermost
+- 言語：Java, shell script
+- OS・DB：Android, Windows, Ubuntu, SQLite
+- ライブラリ・フレームワーク：Andorid SDK, Javadoc
+- ツール：Android Studio, JIRA, Redmine, Gerrit, Repo, Git, Mattermost
 
 ##### 業務内容・主な実績
 
@@ -349,11 +338,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：要件定義、設計、コーディング、テスト
 - 役割：メンバー
 - 規模：12 名（マネージャー1 名、デザイナー1 名、メンバー10 名）
-- 開発環境：
-  - 言語：Java
-  - OS・DB：Android, Windows
-  - ライブラリ・フレームワーク：Android SDK, Data Binding, JUnit, AssertJ
-  - ツール：Android Studio, JIRA, GitHub, Checkstyle, FindBugs, astah, Coverity, Jenkins
+- 言語：Java
+- OS・DB：Android, Windows
+- ライブラリ・フレームワーク：Android SDK, Data Binding, JUnit, AssertJ
+- ツール：Android Studio, JIRA, GitHub, Checkstyle, FindBugs, astah, Coverity, Jenkins
 
 ##### 業務内容・主な実績
 
@@ -367,11 +355,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：設計、コーディング
 - 役割：メンバー
 - 規模：11〜50 名
-- 開発環境：
-  - 言語：Java
-  - OS・DB：Android, Windows, SQLite
-  - ライブラリ・フレームワーク：Android SDK
-  - ツール：Eclipse, Redmine, JIRA, CAT, TortoiseSVN
+- 言語：Java
+- OS・DB：Android, Windows, SQLite
+- ライブラリ・フレームワーク：Android SDK
+- ツール：Eclipse, Redmine, JIRA, CAT, TortoiseSVN
 
 ##### 業務内容・主な実績
 
@@ -384,11 +371,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 概要：若者正社員チャレンジ事業で受け入れたインターン生向けのプログラミング講習（Android アプリ開発）の実施
 - 役割：講師
 - 規模：6〜10 名
-- 開発環境：
-  - 言語：Java, Markdown
-  - OS・DB：Android, Mac OS
-  - ライブラリ・フレームワーク：Android SDK
-  - ツール：Android Studio, GitHub, Qiita
+- 言語：Java, Markdown
+- OS・DB：Android, Mac OS
+- ライブラリ・フレームワーク：Android SDK
+- ツール：Android Studio, GitHub, Qiita
 
 ##### 業務内容・主な実績
 
@@ -402,11 +388,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：コーディング、テスト
 - 役割：メンバー
 - 規模：6〜10 名
-- 開発環境：
-  - 言語：C#, JavaScript
-  - OS・DB：Android, iOS, Windows, Mac OS
-  - ライブラリ・フレームワーク：d3.js, Cardboard SDK, Joker Script
-  - ツール：Unity, Backlog, TortoiseSVN, Xcode
+- 言語：C#, JavaScript
+- OS・DB：Android, iOS, Windows, Mac OS
+- ライブラリ・フレームワーク：d3.js, Cardboard SDK, Joker Script
+- ツール：Unity, Backlog, TortoiseSVN, Xcode
 
 ##### 業務内容・主な実績
 
@@ -422,11 +407,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：コーディング、テスト
 - 役割：メンバー
 - 規模：6〜10 名
-- 開発環境：
-  - 言語：Java
-  - OS・DB：Windows
-  - ライブラリ・フレームワーク：Jakarta Tomcat, Swing
-  - ツール：Eclipse, GitHub, Redmine, SQL Server, Sourcetree
+- 言語：Java
+- OS・DB：Windows
+- ライブラリ・フレームワーク：Jakarta Tomcat, Swing
+- ツール：Eclipse, GitHub, Redmine, SQL Server, Sourcetree
 
 ##### 業務内容・主な実績
 
@@ -439,11 +423,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：コーディング、テスト
 - 役割：メンバー
 - 規模：6〜10 名
-- 開発環境：
-  - 言語：Java, HTML, JavaScript
-  - OS・DB：Windows, MySQL
-  - ライブラリ・フレームワーク：PDFLib, Apache Tomcat, SAStruts, Seasar2, Swing
-  - ツール：Eclipse, GitLab, Redmine, MySQL Workbench
+- 言語：Java, HTML, JavaScript
+- OS・DB：Windows, MySQL
+- ライブラリ・フレームワーク：PDFLib, Apache Tomcat, SAStruts, Seasar2, Swing
+- ツール：Eclipse, GitLab, Redmine, MySQL Workbench
 
 ##### 業務内容・主な実績
 
@@ -458,11 +441,10 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - 担当工程：コーディング、テスト、運用/保守
 - 役割：メンバー
 - 規模：1〜5 名
-- 開発環境：
-  - 言語：Java
-  - OS・DB：Windows
-  - ライブラリ・フレームワーク：Jakarta Tomcat, Swing
-  - ツール：Eclipse, Subversion
+- 言語：Java
+- OS・DB：Windows
+- ライブラリ・フレームワーク：Jakarta Tomcat, Swing
+- ツール：Eclipse, Subversion
 
 ##### 業務内容・主な実績
 
