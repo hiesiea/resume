@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiesiea/hiesiea.git"
+    "url": "git+https://github.com/hiesiea/resume.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hiesiea/hiesiea/issues"
+    "url": "https://github.com/hiesiea/resume/issues"
   },
-  "homepage": "https://github.com/hiesiea/hiesiea#readme",
+  "homepage": "https://github.com/hiesiea/resume#readme",
   "dependencies": {
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
     "textlint": "^12.6.0",
