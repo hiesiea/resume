@@ -1,6 +1,6 @@
 # resume
 
-職務経歴書は[こちら](https://hiesiea.github.io/resume/)
+[職務経歴書](https://hiesiea.github.io/resume/)
 
 ## バージョニングについて
 
