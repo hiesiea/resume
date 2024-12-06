@@ -1,7 +1,5 @@
 # resume
 
-[職務経歴書](https://hiesiea.github.io/resume/)
-
 ## バージョニングについて
 
 [セマンティック バージョニング](https://semver.org/lang/ja/)に基づく。
