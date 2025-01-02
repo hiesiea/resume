@@ -9,15 +9,6 @@
 |居住地|千葉県|
 |最終学歴|愛知工業大学 情報科学部 情報科学科 メディア情報専攻|
 
-## 各種アカウント
-
-- Qiita : <https://qiita.com/hiesiea>
-- Zenn : <https://zenn.dev/kmd_htsh0226>
-- note : <https://note.com/kmd_htsh/>
-- Speaker Deck : <https://speakerdeck.com/kmd_htsh0226>
-- X : <https://x.com/kmd_htsh0226>
-- Lapras : <https://lapras.com/public/PQIRUSU>
-
 ## スキルセット
 
 ### 職務要約
@@ -470,7 +461,8 @@ Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStor
 - PHP 勉強会の共同主催
   - バックエンドエンジニアの友人との共同主催で、教材作成、受講生の課題管理、新規コンテンツの検討を担当しました
 - 技術発信
-  - 主に Qiita, Zenn などで実務等で得られた技術的知見を発信しています
+  - 主に Qiita で実務等で得られた技術的知見を発信しています
+    - <https://qiita.com/hiesiea>
 - OSS 活動
   - DroidKaigi 2021〜2024 official app コントリビューター
 
