@@ -1,0 +1,14 @@
+name: lint text
+
+on:
+  push:
+
+jobs:
+  build:
+    name: lint text
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - name: lint text
+        run: npm run lint

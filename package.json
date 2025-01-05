@@ -4,6 +4,7 @@
   "description": "- 👋 Hi, I’m @hiesiea - 👀 I’m interested in ... - 🌱 I’m currently learning ... - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ...",
   "main": "index.js",
   "scripts": {
+    "lint": "textlint docs/index.md",
     "build:pdf": "md-to-pdf ./docs/index.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
