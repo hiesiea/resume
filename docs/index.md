@@ -31,13 +31,18 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 また、可能であれば日常会話程度以上の英語力を身に付けたり、技術書を出版したり、カンファレンスでの登壇を目指したいです。
 
-### 主な使用可能言語
+### 主な技術スタック
 
-Kotlin（5 年半）, Java（5 年半）, Dart（半年）, C#（1 年半）, Swift（1 年）, JavaScript（2 年半）, shell script（1 年）, HTML（1 年半）, CSS（半年）, Markdown（5 年）, YAML（4 年）
-
-### 主な使用可能フレームワーク・ライブラリ等
-
-Android Jetpack（Jetpack Compose, Navigation, Room, Hilt, WorkManager, DataStore, Media3）, RxJava 3, Kotlin Coroutines, Kotlin Flow, OkHttp3, Retrofit2, Moshi, Glide, JUnit, Mockito, Flutter
+|言語名|業務経験|フレームワーク・ライブラリ名|業務経験|
+|---|---|---|---|
+|Kotlin|5年半|Android Jetpack|4年半|
+|Java|5年半|RxJava 3|3年|
+|Dart|半年|Kotlin Coroutines|4年半|
+|C#|1年半|Kotlin Flow|1年半|
+|Swift|1年|OkHttp|5年半|
+|JavaScript|2年半|Retrofit|4年半|
+|||JUnit|5年|
+|||Flutter|半年|
 
 ## 職務経歴詳細
 
