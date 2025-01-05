@@ -13,6 +13,5 @@ jobs:
         with:
           node-version-file: 'package.json'
           cache: npm
-      - name: lint text
-        run: npm install
-        run: npm run lint
+      - run: npm install
+      - run: npm run lint
