@@ -504,6 +504,10 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
     - <https://qiita.com/hiesiea>
 - OSS 活動
   - DroidKaigi 2021〜2024 official app コントリビューター
+    - <https://github.com/DroidKaigi/conference-app-2021/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
+    - <https://github.com/DroidKaigi/conference-app-2022/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
+    - <https://github.com/DroidKaigi/conference-app-2023/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
+    - <https://github.com/DroidKaigi/conference-app-2024/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
 
 ## 学会発表
 
