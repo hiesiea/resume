@@ -50,14 +50,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2021年3月〜現在 N予備校開発支援業務
 
-- 概要：ZEN Study（旧：`N`予備校）Android アプリの開発支援業務
-- 担当工程：要件定義、設計、コーディング、テスト、運用/保守
-- 役割：当初はメンバーとして参画、2023 年よりテックリード
-- 規模：7 名（マネージャー兼リーダー 1 名、テックリード 1 名、メンバー 5 名）
-- 言語：Kotlin, Markdown
-- OS・DB：Android, Mac OS
-- ライブラリ・フレームワーク：Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build
-- ツール：Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado
+|Key|Value|
+|---|---|
+|概要|ZEN Study（旧：`N`予備校）Android アプリの開発支援業務|
+|担当工程|設計、コーディング、テスト、運用/保守|
+|役割|当初はメンバーとして参画、2023 年よりテックリード|
+|規模|7 名（マネージャー兼リーダー 1 名、テックリード 1 名、メンバー 5 名）|
+|言語|Kotlin, Markdown|
+|OS・DB|Android, Mac OS|
+|ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build|
+|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado|
 
 ##### 業務内容・主な実績
 
@@ -108,14 +110,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2020年6月〜2021年2月 屋外広告配信システム開発案件
 
-- 概要：Windows および Android 向けの屋外広告配信システム開発案件
-- 担当工程：要件定義、設計、コーディング、テスト、運用/保守
-- 役割：メンバー
-- 規模：6 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー4 名）
-- 言語：Kotlin, C#
-- OS・DB：Android, Windows, Mac OS, SQLite
-- ライブラリ・フレームワーク：Android Jetpack, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix
-- ツール：Android Studio, Visual Studio, JIRA, GitLab, GitHub, Slack, zoom, VS Code, LucidChart, Postman, Mmock, Docker, Confluence
+|Key|Value|
+|---|---|
+|概要|Windows および Android 向けの屋外広告配信システム開発案件|
+|担当工程|要件定義、設計、コーディング、テスト、運用/保守|
+|役割|メンバー|
+|規模|6 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー4 名）|
+|言語|Kotlin, C#|
+|OS・DB|Android, Windows, Mac OS, SQLite|
+|ライブラリ・フレームワーク|AAndroid Jetpack, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix|
+|ツール|Android Studio, Visual Studio, JIRA, GitLab, GitHub, Slack, zoom, VS Code, LucidChart, Postman, Mmock, Docker, Confluence|
 
 ##### 業務内容・主な実績
 
@@ -149,14 +153,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2020年2月〜2020年5月 バイトルApp機能拡張開発
 
-- 概要：バイトルアプリ（Android・iOS）の追加開発・改修
-- 担当工程：要件定義、設計、コーディング、テスト、運用/保守
-- 役割：メンバー
-- 規模：11〜50 名
-- 言語：Java, Kotlin, Swift, Markdown
-- OS・DB：Android, iOS, Mac OS, SQLite, Realm
-- ライブラリ・フレームワーク：Retrofit, Swagger, Maps SDK for Android, Adobe Target
-- ツール：Android Studio, Xcode, Redmine, Backlog, GitHub, VS Code, PlantUML, Postman, Mmock, ngrok, Toggl, DocBase, Bitrise, VS App Center, Slack
+|Key|Value|
+|---|---|
+|概要|バイトルアプリ（Android・iOS）の追加開発・改修|
+|担当工程|要件定義、設計、コーディング、テスト、運用/保守|
+|役割|メンバー|
+|規模|11〜50 名|
+|言語|Java, Kotlin, Swift, Markdown|
+|OS・DB|Android, iOS, Mac OS, SQLite, Realm|
+|ライブラリ・フレームワーク|Retrofit, Swagger, Maps SDK for Android, Adobe Target|
+|ツール|Android Studio, Xcode, Redmine, Backlog, GitHub, VS Code, PlantUML, Postman, Mmock, ngrok, Toggl, DocBase, Bitrise, VS App Center, Slack|
 
 ##### 業務内容・主な実績
 
@@ -175,14 +181,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2019年7月〜2020年1月 モバイルアプリの追加開発・改修
 
-- 概要：格安 SIM を提供している会社様向けに、契約者のご利用状況などを確認できるスマホアプリの追加開発・改修
-- 担当工程：要件定義、設計、コーディング、テスト
-- 役割：開発メンバー
-- 規模：6 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー4 名）
-- 言語：Dart, Kotlin, Markdown, Swift, JavaScript
-- OS・DB：Android, iOS, Mac OS, SQLite
-- ライブラリ・フレームワーク：Flutter, Appium, Swagger, FCM, Mockito, Notification Hubs
-- ツール：Azure DevOps, Git, Backlog, Toggl, Mmock, Docker, Typora, ngrok, Xcode, zoom, VS Code, Slack, Android Studio
+|Key|Value|
+|---|---|
+|概要|格安 SIM を提供している会社様向けに、契約者のご利用状況などを確認できるスマホアプリの追加開発・改修|
+|担当工程|要件定義、設計、コーディング、テスト|
+|役割|開発メンバー|
+|規模|6 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー4 名）|
+|言語|Dart, Kotlin, Markdown, Swift, JavaScript|
+|OS・DB|Android, iOS, Mac OS, SQLite|
+|ライブラリ・フレームワーク|Flutter, Appium, Swagger, FCM, Mockito, Notification Hubs|
+|ツール|Azure DevOps, Git, Backlog, Toggl, Mmock, Docker, Typora, ngrok, Xcode, zoom, VS Code, Slack, Android Studio|
 
 ##### 業務内容・主な実績
 
@@ -203,16 +211,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2019年4月〜2019年10月 Android TV お手続き資料請求アプリおよび、請求確認アプリの新規開発
 
-- 概要：Android TV 搭載の STB 向けのプリインアプリの新規開発、以下 2 つのアプリを同時進行で作成
-  - テレビプランや各種サービスへのお手続き資料請求アプリ
-  - 加入中のプランなどの料金詳細が確認できる請求確認アプリ
-- 担当工程：要件定義、設計、コーディング、テスト
-- 役割：開発メンバー
-- 規模：7 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー5 名）
-- 言語：Kotlin, Markdown, shell script, YAML
-- OS・DB：Android TV, Mac OS, SQLite
-- ライブラリ・フレームワーク：Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide
-- ツール：Android Studio, Azure DevOps, Backlog, Git, Toggl, zoom, miro, Docker, Slack, VS Code, Mmock
+|Key|Value|
+|---|---|
+|概要|Android TV 搭載の STB 向けに、テレビプランや各種サービスへのお手続き資料請求アプリと、加入中のプランなどの料金詳細が確認できる請求確認アプリの新規開発（いずれもプリインアプリ）|
+|担当工程|要件定義、設計、コーディング、テスト|
+|役割|開発メンバー|
+|規模|7 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー5 名）|
+|言語|Kotlin, Markdown, shell script, YAML|
+|OS・DB|Android TV, Mac OS, SQLite|
+|ライブラリ・フレームワーク|Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide|
+|ツール|Android Studio, Azure DevOps, Backlog, Git, Toggl, zoom, miro, Docker, Slack, VS Code, Mmock|
 
 ##### 業務内容・主な実績
 
@@ -229,14 +237,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2018年8月〜2019年1月 IPTV の Android FW 標準化検討
 
-- 概要：MMT(MPEG Media Transport) を Android 上で実現するための検討および調査
-- 担当工程：要件定義
-- 役割：メンバー
-- 規模：6〜10 名
-- 言語：Java
-- OS・DB：Android TV, Ubuntu, Windows
-- ライブラリ・フレームワーク：Android SDK, ExoPlayer
-- ツール：Android Studio, GitHub, Backlog, Redmine, Wireshark, tcpreplay
+|Key|Value|
+|---|---|
+|概要|MMT(MPEG Media Transport) を Android 上で実現するための検討および調査|
+|担当工程|要件定義|
+|役割|メンバー|
+|規模|6〜10 名|
+|言語|Java|
+|OS・DB|Android TV, Ubuntu, Windows|
+|ライブラリ・フレームワーク|Android SDK, ExoPlayer|
+|ツール|Android Studio, GitHub, Backlog, Redmine, Wireshark, tcpreplay|
 
 ##### 業務内容・主な実績
 
@@ -247,14 +257,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2017年12月〜2018年3月 ペット心電図アプリ開発
 
-- 概要：ペット用の心電図アプリの開発
-- 担当工程：実装、テスト
-- 役割：メンバー
-- 規模：1〜5 名
-- 言語：C#, JavaScript, HTML
-- OS・DB：Windows
-- ライブラリ・フレームワーク：i18next, Windows Form
-- ツール：Redmine, Git, Visual Studio 2017
+|Key|Value|
+|---|---|
+|概要|ペット用の心電図アプリの開発|
+|担当工程|コーディング、テスト|
+|役割|メンバー|
+|規模|1〜5 名|
+|言語|C#, JavaScript, HTML|
+|OS・DB|Windows|
+|ライブラリ・フレームワーク|i18next, Windows Form|
+|ツール|Redmine, Git, Visual Studio 2017|
 
 ##### 業務内容・主な実績
 
@@ -264,14 +276,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2017年11月〜2019年3月 Android TV 衛星放送プレイヤーの追加開発・改修
 
-- 概要：Android TV 搭載の STB 専用の、IPTV アプリの衛星放送プレイヤー部分の追加開発・改修
-- 担当工程：設計、コーディング、テスト、運用/保守
-- 役割：メンバー
-- 規模：5 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー3 名）
-- 言語：Java
-- OS・DB：Android TV, Windows
-- ライブラリ・フレームワーク：Android SDK, OkHttp、Volley, ExoPlayer
-- ツール：Android Studio, Subversion, Redmine, Wireshark
+|Key|Value|
+|---|---|
+|概要|Android TV 搭載の STB 専用の、IPTV アプリの衛星放送プレイヤー部分の追加開発・改修|
+|担当工程|設計、コーディング、テスト、運用/保守|
+|役割|メンバー|
+|規模|5 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー3 名）|
+|言語|Java|
+|OS・DB|Android TV, Windows|
+|ライブラリ・フレームワーク|Android SDK, OkHttp、Volley, ExoPlayer|
+|ツール|Android Studio, Subversion, Redmine, Wireshark|
 
 ##### 業務内容・主な実績
 
@@ -282,14 +296,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2017年11月〜2018年5月 スマートスピーカー検討
 
-- 概要：スマートスピーカーと STB の連携方法に関する調査・検討
-- 担当工程：要件定義
-- 役割：メンバー
-- 規模：1〜5 名
-- 言語：JavaScript, HTML, CSS
-- OS・DB：Windows, SQLite
-- ライブラリ・フレームワーク：Node.js, JQuery, Bootstrap
-- ツール：ngrok, Redmine, Dialogflow, Alexa Skills Kit, IFTTT, Git, Actions on Google, Node-RED
+|Key|Value|
+|---|---|
+|概要|スマートスピーカーと STB の連携方法に関する調査・検討|
+|担当工程|要件定義|
+|役割|メンバー|
+|規模|1〜5 名|
+|言語|JavaScript, HTML, CSS|
+|OS・DB|Windows, SQLite|
+|ライブラリ・フレームワーク|Node.js, JQuery, Bootstrap|
+|ツール|ngrok, Redmine, Dialogflow, Alexa Skills Kit, IFTTT, Git, Actions on Google, Node-RED|
 
 ##### 業務内容・主な実績
 
@@ -299,12 +315,14 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2017年10月〜2017年11月 社内新人研修
 
-- 概要：新入社員向けのプログラミング研修
-- 役割：講師
-- 規模：11〜20 名
-- 言語：Java, C#
-- OS・DB：Windows, Mac
-- ツール：GitHub
+|Key|Value|
+|---|---|
+|概要|新入社員向けのプログラミング研修|
+|役割|講師|
+|規模|11〜20 名|
+|言語|Java, C#|
+|OS・DB|Windows, Mac|
+|ツール|GitHub|
 
 ##### 業務内容・主な実績
 
@@ -314,14 +332,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2017年4月〜2017年9月 Android 搭載 の IoT デバイスの新規開発
 
-- 概要：Android 搭載の非接触センサー付 IoT デバイスの新規開発
-- 担当工程：設計、コーディング、テスト
-- 役割：メンバー
-- 規模：31 名（プロジェクトマネージャー1 名、プロジェクトリーダー5 名、開発メンバー15 名、テスター10 名）
-- 言語：Java, shell script
-- OS・DB：Android, Windows, Ubuntu, SQLite
-- ライブラリ・フレームワーク：Andorid SDK, Javadoc
-- ツール：Android Studio, JIRA, Redmine, Gerrit, Repo, Git, Mattermost
+|Key|Value|
+|---|---|
+|概要|Android 搭載の非接触センサー付 IoT デバイスの新規開発|
+|担当工程|設計、コーディング、テスト|
+|役割|メンバー|
+|規模|31 名（プロジェクトマネージャー1 名、プロジェクトリーダー5 名、開発メンバー15 名、テスター10 名）|
+|言語|Java, shell script|
+|OS・DB|Android, Windows, Ubuntu, SQLite|
+|ライブラリ・フレームワーク|Andorid SDK, Javadoc|
+|ツール|Android Studio, JIRA, Redmine, Gerrit, Repo, Git, Mattermost|
 
 ##### 業務内容・主な実績
 
@@ -330,14 +350,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2016年10月〜2017年3月 Android 搭載のコミュニケーションロボットの新規開発
 
-- 概要：Android 搭載の音声認識、顔認識によるコミュニケーションロボットの新規開発
-- 担当工程：要件定義、設計、コーディング、テスト
-- 役割：メンバー
-- 規模：12 名（マネージャー1 名、デザイナー1 名、メンバー10 名）
-- 言語：Java
-- OS・DB：Android, Windows
-- ライブラリ・フレームワーク：Android SDK, Data Binding, JUnit, AssertJ
-- ツール：Android Studio, JIRA, GitHub, Checkstyle, FindBugs, astah, Coverity, Jenkins
+|Key|Value|
+|---|---|
+|概要|Android 搭載の音声認識、顔認識によるコミュニケーションロボットの新規開発|
+|担当工程|要件定義、設計、コーディング、テスト|
+|役割|メンバー|
+|規模|12 名（マネージャー1 名、デザイナー1 名、メンバー10 名）|
+|言語|Java|
+|OS・DB|Android, Windows|
+|ライブラリ・フレームワーク|Android SDK, Data Binding, JUnit, AssertJ|
+|ツール|Android Studio, JIRA, GitHub, Checkstyle, FindBugs, astah, Coverity, Jenkins|
 
 ##### 業務内容・主な実績
 
@@ -347,14 +369,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2016年5月〜2016年8月 大手物流企業向け宅配管理システム開発
 
-- 概要：大手物流企業向けの宅配管理を行うための Andorid アプリの開発
-- 担当工程：設計、コーディング
-- 役割：メンバー
-- 規模：11〜50 名
-- 言語：Java
-- OS・DB：Android, Windows, SQLite
-- ライブラリ・フレームワーク：Android SDK
-- ツール：Eclipse, Redmine, JIRA, CAT, TortoiseSVN
+|Key|Value|
+|---|---|
+|概要|大手物流企業向けの宅配管理を行うための Andorid アプリの開発|
+|担当工程|設計、コーディング|
+|役割|メンバー|
+|規模|11〜50 名|
+|言語|Java|
+|OS・DB|Android, Windows, SQLite|
+|ライブラリ・フレームワーク|Android SDK|
+|ツール|Eclipse, Redmine, JIRA, CAT, TortoiseSVN|
 
 ##### 業務内容・主な実績
 
@@ -364,13 +388,15 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2016年4月〜2016年5月 社外研修
 
-- 概要：若者正社員チャレンジ事業で受け入れたインターン生向けのプログラミング講習（Android アプリ開発）の実施
-- 役割：講師
-- 規模：6〜10 名
-- 言語：Java, Markdown
-- OS・DB：Android, Mac OS
-- ライブラリ・フレームワーク：Android SDK
-- ツール：Android Studio, GitHub, Qiita
+|Key|Value|
+|---|---|
+|概要|若者正社員チャレンジ事業で受け入れたインターン生向けのプログラミング講習（Android アプリ開発）の実施|
+|役割|講師|
+|規模|6〜10 名|
+|言語|Java, Markdown|
+|OS・DB|Android, Mac OS|
+|ライブラリ・フレームワーク|Android SDK|
+|ツール|Android Studio, GitHub, Qiita|
 
 ##### 業務内容・主な実績
 
@@ -380,14 +406,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2015年10月〜2016年3月 iOS・Android 向け観光支援スマホゲームアプリの新規開発
 
-- 概要：iOS、Android 向けの地方観光支援のためのスマホゲームアプリの新規開発
-- 担当工程：コーディング、テスト
-- 役割：メンバー
-- 規模：6〜10 名
-- 言語：C#, JavaScript
-- OS・DB：Android, iOS, Windows, Mac OS
-- ライブラリ・フレームワーク：d3.js, Cardboard SDK, Joker Script
-- ツール：Unity, Backlog, TortoiseSVN, Xcode
+|Key|Value|
+|---|---|
+|概要|iOS、Android 向けの地方観光支援のためのスマホゲームアプリの新規開発|
+|担当工程|コーディング、テスト|
+|役割|メンバー|
+|規模|6〜10 名|
+|言語|C#, JavaScript|
+|OS・DB|Android, iOS, Windows, Mac OS|
+|ライブラリ・フレームワーク|d3.js, Cardboard SDK, Joker Script|
+|ツール|Unity, Backlog, TortoiseSVN, Xcode|
 
 ##### 業務内容・主な実績
 
@@ -399,14 +427,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2015年4月〜2015年8月 収納家具見積 Web システムの新規開発
 
-- 概要：収納家具のレイアウトを作図し、作図内容をもとに見積もり金額を算出するための Web システム
-- 担当工程：コーディング、テスト
-- 役割：メンバー
-- 規模：6〜10 名
-- 言語：Java
-- OS・DB：Windows
-- ライブラリ・フレームワーク：Jakarta Tomcat, Swing
-- ツール：Eclipse, GitHub, Redmine, SQL Server, Sourcetree
+|Key|Value|
+|---|---|
+|概要|収納家具のレイアウトを作図し、作図内容をもとに見積もり金額を算出するための Web システム|
+|担当工程|コーディング、テスト|
+|役割|メンバー|
+|規模|6〜10 名|
+|言語|Java|
+|OS・DB|Windows|
+|ライブラリ・フレームワーク|Jakarta Tomcat, Swing|
+|ツール|Eclipse, GitHub, Redmine, SQL Server, Sourcetree|
 
 ##### 業務内容・主な実績
 
@@ -415,14 +445,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2014年7月〜2015年3月 プレゼンボード作成 Web システムの新規開発
 
-- 概要：プレゼンボードやチラシを作成するための Web システム
-- 担当工程：コーディング、テスト
-- 役割：メンバー
-- 規模：6〜10 名
-- 言語：Java, HTML, JavaScript
-- OS・DB：Windows, MySQL
-- ライブラリ・フレームワーク：PDFLib, Apache Tomcat, SAStruts, Seasar2, Swing
-- ツール：Eclipse, GitLab, Redmine, MySQL Workbench
+|Key|Value|
+|---|---|
+|概要|プレゼンボードやチラシを作成するための Web システム|
+|担当工程|コーディング、テスト|
+|役割|メンバー|
+|規模|6〜10 名|
+|言語|Java, HTML, JavaScript|
+|OS・DB|Windows, MySQL|
+|ライブラリ・フレームワーク|PDFLib, Apache Tomcat, SAStruts, Seasar2, Swing|
+|ツール|Eclipse, GitLab, Redmine, MySQL Workbench|
 
 ##### 業務内容・主な実績
 
@@ -433,14 +465,16 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 #### 2014年5月〜2014年6月 ウッドデッキ見積 Web システムの不具合改修
 
-- 概要：ウッドデッキを作図し、作図内容をもとに見積もり金額を算出するための Web システム
-- 担当工程：コーディング、テスト、運用/保守
-- 役割：メンバー
-- 規模：1〜5 名
-- 言語：Java
-- OS・DB：Windows
-- ライブラリ・フレームワーク：Jakarta Tomcat, Swing
-- ツール：Eclipse, Subversion
+|Key|Value|
+|---|---|
+|概要|ウッドデッキを作図し、作図内容をもとに見積もり金額を算出するための Web システム|
+|担当工程|コーディング、テスト、運用/保守|
+|役割|メンバー|
+|規模|1〜5 名|
+|言語|Java|
+|OS・DB|Windows|
+|ライブラリ・フレームワーク|Jakarta Tomcat, Swing|
+|ツール|Eclipse, Subversion|
 
 ##### 業務内容・主な実績
 
