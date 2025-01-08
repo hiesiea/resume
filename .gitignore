@@ -1,2 +1,5 @@
 node_modules
 .DS_Store
+
+# https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
+docs/index.pdf
