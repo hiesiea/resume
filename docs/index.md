@@ -28,10 +28,11 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |言語名|業務経験|フレームワーク・ライブラリ名|業務経験|
 |---|---|---|---|
 |Kotlin|5年半|Android Jetpack|4年半|
-|Java|5年半|RxJava 3|3年|
-|Dart|半年|Kotlin Coroutines|4年半|
-|C#|1年半|Kotlin Flow|1年半|
-|Swift|1年|OkHttp|5年半|
+|Java|5年半|Firebase|4年|
+|Dart|半年|RxJava 3|3年|
+|C#|1年半|Kotlin Coroutines|4年半|
+|Swift|1年|Kotlin Flow|1年半|
+|||OkHttp|5年半|
 |||Retrofit|4年半|
 |||JUnit|5年|
 |||Flutter|半年|
@@ -400,7 +401,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|6〜10 名|
 |言語|C#, JavaScript|
 |OS・DB|Android, iOS, Windows, Mac OS|
-|ライブラリ・フレームワーク|d3.js, Cardboard SDK, Joker Script|
+|ライブラリ・フレームワーク|d3.js, Cardboard SDK, Joker Script, Google Analytics|
 |ツール|Unity, Backlog, TortoiseSVN, Xcode|
 
 ##### 業務内容
