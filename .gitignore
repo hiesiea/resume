@@ -3,3 +3,6 @@ node_modules
 
 # https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
 docs/index.pdf
+
+# https://pandoc.org/
+index.docx
