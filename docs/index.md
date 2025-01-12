@@ -82,7 +82,11 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
   - GitHub の PR のテンプレート改善
   - 新人の開発サポート
   - CI/CD の改善
-- DroidKaigi への参加、セッションへの応募
+- DroidKaigi への参加、セッションへの応募、コントリビュート
+  - <https://github.com/DroidKaigi/conference-app-2021/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
+  - <https://github.com/DroidKaigi/conference-app-2022/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
+  - <https://github.com/DroidKaigi/conference-app-2023/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
+  - <https://github.com/DroidKaigi/conference-app-2024/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
 
 ##### 主な実績
 
@@ -491,12 +495,6 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 - 技術発信
   - 主に Qiita で実務等で得られた技術的知見を発信しています
     - <https://qiita.com/hiesiea>
-- OSS 活動
-  - DroidKaigi 2021〜2024 official app コントリビューター
-    - <https://github.com/DroidKaigi/conference-app-2021/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
-    - <https://github.com/DroidKaigi/conference-app-2022/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
-    - <https://github.com/DroidKaigi/conference-app-2023/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
-    - <https://github.com/DroidKaigi/conference-app-2024/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
 
 ## 学会発表
 
