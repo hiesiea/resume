@@ -59,13 +59,14 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 - 機能追加、不具合改修
   - 接続先サーバの移行対応
   - Edge-to-edge の導入
+  - 案件対応
 - リファクタリング
   - Java から Kotlin に移行
-  - Deprecated な処理の置き換え
+  - Deprecated な API の置き換え
   - 画面遷移を Navigation に移行
-  - Single アクティビティ に移行
-  - Android View を Jetpack Compose に移行、UI テストの導入
-  - マルチモジュールの導入
+  - `Single Activity` に移行
+  - Android View を Jetpack Compose に移行し、UI テストの導入
+  - マルチモジュール化対応
   - 自前で実装されていた通信処理を Retrofit に移行
   - JSON ライブラリについて、org.json と Gson がごちゃ混ぜになっていたので Moshi に一本化
   - Serializable なデータクラスを Parcelable に移行
