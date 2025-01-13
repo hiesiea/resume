@@ -52,14 +52,15 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |言語|Kotlin, Markdown|
 |OS・DB|Android, Mac OS|
 |ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase, turbine|
-|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado|
+|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado, Renovate|
 
 ##### 業務内容
 
 - 機能追加、不具合改修
-  - 接続先サーバの移行対応
-  - Edge-to-edge の導入
   - 案件対応
+  - Edge-to-edge の導入
+  - OS アップデート対応
+  - 各種ライブラリのバージョンアップデート対応
 - リファクタリング
   - Java から Kotlin に移行
   - Deprecated な API の置き換え
