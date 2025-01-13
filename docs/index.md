@@ -51,7 +51,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|7 名（マネージャー兼リーダー 1 名、テックリード 1 名、メンバー 5 名）|
 |言語|Kotlin, Markdown|
 |OS・DB|Android, Mac OS|
-|ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build|
+|ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase|
 |ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado|
 
 ##### 業務内容
@@ -82,6 +82,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
   - GitHub の PR のテンプレート改善
   - 新人の開発サポート
   - CI/CD の改善
+  - スクリーンショットテストの導入
 - DroidKaigi への参加、セッションへの応募、コントリビュート
   - <https://github.com/DroidKaigi/conference-app-2021/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
   - <https://github.com/DroidKaigi/conference-app-2022/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
