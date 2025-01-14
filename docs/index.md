@@ -495,9 +495,8 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
   - <https://github.com/hiesiea/SimpleMealManager>
 - PHP 勉強会の共同主催
   - バックエンドエンジニアの友人との共同主催で、教材作成、受講生の課題管理、新規コンテンツの検討を担当しました
-- 技術発信
-  - 主に Qiita で実務等で得られた技術的知見を発信しています
-    - <https://qiita.com/hiesiea>
+- 主に Qiita での技術発信（2025 年 1 月時点で投稿数 88）
+  - <https://qiita.com/hiesiea>
 
 ## 学会発表
 
