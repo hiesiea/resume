@@ -52,8 +52,8 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|7 名（マネージャー兼リーダー 1 名、テックリード 1 名、メンバー 5 名）|
 |言語|Kotlin, Markdown|
 |OS・DB|Android, Mac OS|
-|ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase, turbine|
-|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado, Renovate|
+|ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config, App Distribution), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase, turbine|
+|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado, Renovate, Bitrise|
 
 ##### 業務内容
 
