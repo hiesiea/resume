@@ -79,14 +79,15 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 - テックリードとしてチームメンバーのマネジメントや開発環境の改善
   - 新技術導入に向けた調査、ドキュメント作成および共有
   - リファクタリングタスクの工数見積もり、計画作成、チームメンバーへの割り振り
-  - Codelab にて学習コンテンツの選定
+  - 新技術導入にあたり Codelab にて学習コンテンツの選定
   - チーム内での取り組みを Qiita にて記事化し発信
   - コードレビュー、ペアプロ
   - GitHub の PR のテンプレート改善
   - 新人の開発サポート
   - CI/CD の改善
   - スクリーンショットテストの導入
-  - Bitrise から GitHub Actions への移行
+- その他開発業務
+  - Bitrise から GitHub Actions に移行
 - DroidKaigi への参加、セッションへの応募、コントリビュート
   - <https://github.com/DroidKaigi/conference-app-2021/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
   - <https://github.com/DroidKaigi/conference-app-2022/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
