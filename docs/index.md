@@ -42,7 +42,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 ### 2019年4月〜現在 フリーランス
 
-#### 2021年3月〜現在 N予備校開発支援業務
+#### 2021年3月〜現在 ZEN Studyおよび学校管理システム開発業務
 
 |Key|Value|
 |---|---|
@@ -86,6 +86,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
   - 新人の開発サポート
   - CI/CD の改善
   - スクリーンショットテストの導入
+  - Bitrise から GitHub Actions への移行
 - DroidKaigi への参加、セッションへの応募、コントリビュート
   - <https://github.com/DroidKaigi/conference-app-2021/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
   - <https://github.com/DroidKaigi/conference-app-2022/pulls?q=is%3Apr+is%3Aclosed+author%3Ahiesiea>
