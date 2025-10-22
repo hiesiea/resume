@@ -19,30 +19,30 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 
 ## 自己PR
 
-私の強みとしては、8 年以上の Android ネイティブアプリ開発の経験があること、レガシーコードのリファクタリングやリプレイスを得意としていること、テックリードとして 5 名程のメンバーをリードした経験が 2 年以上あることです。
+私の強みとしては、8 年以上の Android アプリ開発の経験があること、レガシーコードのリファクタリングやリプレイスを得意としていること、テックリードとして 5 名程のメンバーをリードした経験が 2 年以上あることです。
 直近の業務では、テックリードとして複数の大規模なリファクタリングをリードしたり、開発環境を改善したり、新人と定期的なミーティングを実施して技術的なサポートや不明点の解消などといったマネジメントを行いました。
 将来的にはテックリードとしての経験をもっと積んでいき、技術にも携わりつつマネジメントもできる人材を目指したいです。
 また、可能であれば日常会話程度以上の英語力を身に付けたり、技術書を出版したり、カンファレンスでの登壇を目指したいです。
 
-## 主な技術スタック（2025年1月時点）
+## 主な技術スタック（2025年10月時点）
 
-|言語名|業務経験|フレームワーク・ライブラリ名|業務経験|
-|---|---|---|---|
-|Kotlin|5年半|Android Jetpack|4年半|
-|Java|5年半|Firebase|4年|
-|Dart|半年|RxJava 3|3年|
-|C#|1年半|Kotlin Coroutines|4年半|
-|Swift|1年|Kotlin Flow|1年半|
-|||OkHttp|5年半|
-|||Retrofit|4年半|
-|||JUnit|5年|
-|||Flutter|半年|
+|プラットフォーム|業務経験|言語|業務経験|フレームワーク・ライブラリ|業務経験|
+|---|---|---|---|---|---|
+|Android|8年1ヶ月|Kotlin|6年10ヶ月|Android Jetpack|5年4ヶ月|
+|Android TV|2年6ヶ月|Java|4年8ヶ月|Firebase|4年7ヶ月|
+|iOS|1年5ヶ月|Dart|7ヶ月|RxJava 3|4年7ヶ月|
+|||C#|2年7ヶ月|Kotlin Coroutines|5年11ヶ月|
+|||Swift|11ヶ月|Kotlin Flow|4年7ヶ月|
+|||||OkHttp|6年9ヶ月|
+|||||Retrofit|5年8ヶ月|
+|||||JUnit|5年10ヶ月|
+|||||Flutter|7ヶ月|
 
 ## 職務経歴詳細
 
 ### 2019年4月〜現在 フリーランス
 
-#### 2021年3月〜現在 ZEN Studyおよび学校管理システム開発業務
+#### 2021年3月〜現在 ZEN Study および学校管理システム開発業務
 
 |Key|Value|
 |---|---|
@@ -52,8 +52,8 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|7 名（マネージャー兼リーダー 1 名、テックリード 1 名、メンバー 5 名）|
 |言語|Kotlin, Markdown|
 |OS・DB|Android, Mac OS|
-|ライブラリ・フレームワーク|Android Jetpack(Jetpack Compose, Navigation, Media3, DataStore), Glide, Coil, Sentry, Firebase(Analytics, Messaging, Crashlytics, Remote Config, App Distribution), OkHttp3, Retrofit2, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase, turbine|
-|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado, Renovate, Bitrise|
+|ライブラリ・フレームワーク|Android SDK, Android Jetpack(Compose, Navigation, Media3, DataStore), Glide, Coil, Firebase(Analytics, Messaging, Crashlytics, Remote Config, App Distribution), OkHttp, Retrofit, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase, turbine|
+|ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado, Renovate, Bitrise, Sentry, Clarity|
 
 ##### 業務内容
 
@@ -85,7 +85,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
   - GitHub の PR のテンプレート改善
   - 新人の開発サポート
   - CI/CD の改善
-  - スクリーンショットテストの導入
+  - スクリーンショットテストの導入、運用方針の策定
 - その他開発業務
   - Bitrise から GitHub Actions に移行
 - DroidKaigi への参加、セッションへの応募、コントリビュート
@@ -97,7 +97,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 ##### 主な実績
 
 - リーダーから与えられたタスクだけでなく、改善できそうな箇所（アーキテクチャに沿っていない、Deprecated な処理があるなど）に関して改善案を提案したり、リファクタリングを積極的に進めるようにした
-  - その結果、評価されてテックリードを任せてもらえるようになった
+  - その結果、評価されて2022年11月よりテックリードを任せてもらえるようになった
 - 新技術導入に向けた調査、ドキュメント作成および共有をしていく中で、以下の点を心がけて属人化を防いだ
   - ただ調べた内容を共有するのではなく、実際に手を動かしてアプリの動作にも影響がないかどうかも検証して、より正確な情報を提供するようにした
   - コード例を記載して他メンバーが実装をイメージできるようにした
@@ -119,7 +119,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|6 名（プロジェクトマネージャー1 名、プロジェクトリーダー1 名、メンバー4 名）|
 |言語|Kotlin, C#|
 |OS・DB|Android, Windows, Mac OS, SQLite|
-|ライブラリ・フレームワーク|AAndroid Jetpack, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix|
+|ライブラリ・フレームワーク|Android SDK, Android Jetpack（Room, WorkManager）, OkHttp, Retrofit, JUnit, MockK, Timber, Kotlin Coroutines, WPF, UWP, Prism, RestSharp, EF Core、.NET Core, NLog, msix|
 |ツール|Android Studio, Visual Studio, JIRA, GitLab, GitHub, Slack, zoom, VS Code, LucidChart, Postman, Mmock, Docker, Confluence|
 
 ##### 業務内容
@@ -152,7 +152,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
   - 新人向けに開発ルールなどのドキュメント作成
   - コードレビュー、設計レビュー
 
-#### 2020年2月〜2020年5月 バイトルApp機能拡張開発
+#### 2020年2月〜2020年5月 バイトルアプリ機能拡張開発
 
 |Key|Value|
 |---|---|
@@ -162,7 +162,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|11〜50 名|
 |言語|Java, Kotlin, Swift, Markdown|
 |OS・DB|Android, iOS, Mac OS, SQLite, Realm|
-|ライブラリ・フレームワーク|Retrofit, Swagger, Maps SDK for Android, Adobe Target|
+|ライブラリ・フレームワーク|Android SDK, Retrofit, Swagger, Maps SDK for Android, Adobe Target|
 |ツール|Android Studio, Xcode, Redmine, Backlog, GitHub, VS Code, PlantUML, Postman, Mmock, ngrok, Toggl, DocBase, Bitrise, VS App Center, Slack|
 
 ##### 業務内容
@@ -220,7 +220,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |規模|7 名（プロダクトオーナー1 名、スクラムマスタ 1 名、開発メンバー5 名）|
 |言語|Kotlin, Markdown, shell script, YAML|
 |OS・DB|Android TV, Mac OS, SQLite|
-|ライブラリ・フレームワーク|Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide|
+|ライブラリ・フレームワーク|Android SDK, Kotlin Coroutines, Swagger, Timber, Leanback, Data Binding, Glide|
 |ツール|Android Studio, Azure DevOps, Backlog, Git, Toggl, zoom, miro, Docker, Slack, VS Code, Mmock|
 
 ##### 業務内容
