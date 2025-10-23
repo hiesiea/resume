@@ -31,8 +31,8 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |Android|8年1か月|Kotlin|6年10か月|Android Jetpack|5年4か月|
 |Android TV|2年6か月|Java|4年8か月|Firebase|4年7か月|
 |iOS|1年5か月|Dart|7か月|RxJava 3|4年7か月|
-|||C#|2年7か月|Kotlin Coroutines|5年11か月|
-|||Swift|11か月|Kotlin Flow|4年7か月|
+|Web|1年5か月|C#|2年7か月|Kotlin Coroutines|5年11か月|
+|Backend|9か月|Swift|11か月|Kotlin Flow|4年7か月|
 |||||OkHttp|6年9か月|
 |||||Retrofit|5年8か月|
 |||||JUnit|5年10か月|
