@@ -33,7 +33,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |iOS|1年5か月|Dart|7か月|RxJava 3|4年7か月|
 |Web|1年5か月|C#|2年7か月|Kotlin Coroutines|5年11か月|
 |Backend|9か月|Swift|11か月|Kotlin Flow|4年7か月|
-|||||OkHttp|6年9か月|
+|Windows|2年1か月|JavaScript|3年9か月|OkHttp|6年9か月|
 |||||Retrofit|5年8か月|
 |||||JUnit|5年10か月|
 |||||Flutter|7か月|
@@ -50,7 +50,7 @@ Kotlin, Java による Android ネイティブアプリ開発や、Flutter, Unit
 |担当工程|設計、コーディング、テスト、運用/保守|
 |役割|当初はメンバーとして参画、2023 年よりテックリード|
 |規模|7 名（マネージャー兼リーダー 1 名、テックリード 1 名、メンバー 5 名）|
-|言語|Kotlin, Markdown|
+|言語|Kotlin, Markdown, YAML|
 |OS・DB|Android, Mac OS|
 |ライブラリ・フレームワーク|Android SDK, Android Jetpack(Compose, Navigation, Media3, DataStore), Glide, Coil, Firebase(Analytics, Messaging, Crashlytics, Remote Config, App Distribution), OkHttp, Retrofit, JUnit, kotlin.test, Mockito, Timber, Kotlin Coroutines, Kotlin Flow, ExoPlayer, RxJava 3, Version Catalog, Composite Build, Roborazzi, Showkase, turbine|
 |ツール|Android Studio, JIRA, Slack, Confluence, GitHub, Figma, avocado, Renovate, Bitrise, Sentry, Clarity|
